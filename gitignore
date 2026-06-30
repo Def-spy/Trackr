@@ -1,0 +1,6 @@
+# Local runs: ignore generated state. The GitHub Action force-adds state.json
+# (git add state.json) so it IS committed there for cross-run persistence.
+state.json
+state.json.tmp
+__pycache__/
+*.pyc

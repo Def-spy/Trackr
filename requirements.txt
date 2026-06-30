@@ -1,0 +1,2 @@
+# stdlib-only; no runtime deps.
+# Pinned here only if you later add libraries.
