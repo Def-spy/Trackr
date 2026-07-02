@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-01T14:36:53.857532+00:00",
+  "updated": "2026-07-02T09:18:18.912502+00:00",
   "row_count": 428,
-  "raw_bytes": 692670,
+  "raw_bytes": 692848,
   "programmes": {
     "36jiyb6sx2": {
       "openingDate": "2026-06-07T00:00:00.000Z",
@@ -1309,7 +1309,7 @@
       "company": "Oxera"
     },
     "pxq146w78t": {
-      "openingDate": null,
+      "openingDate": "2026-07-02T00:00:00.000Z",
       "name": "Quantitative Reseacher - Intern",
       "company": "GSA Capital"
     },
