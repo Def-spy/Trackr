@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-05T13:39:55.932497+00:00",
+  "updated": "2026-07-06T10:43:48.257549+00:00",
   "row_count": 429,
-  "raw_bytes": 694202,
+  "raw_bytes": 694325,
   "programmes": {
     "312d27yd38": {
       "openingDate": "2026-07-03T00:00:00.000Z",
@@ -569,7 +569,7 @@
       "company": "Deloitte"
     },
     "gr8jadtco5": {
-      "openingDate": null,
+      "openingDate": "2026-07-06T00:00:00.000Z",
       "name": "Summer Internship",
       "company": "EDF Trading"
     },
