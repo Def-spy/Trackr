@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-12T13:20:05.447028+00:00",
+  "updated": "2026-07-13T09:33:51.984670+00:00",
   "row_count": 429,
-  "raw_bytes": 694346,
+  "raw_bytes": 694450,
   "programmes": {
     "312d27yd38": {
       "openingDate": "2026-07-03T00:00:00.000Z",
@@ -829,8 +829,8 @@
       "company": "EBRD"
     },
     "k8asf1h97h": {
-      "openingDate": null,
-      "name": "Quantitative Trading/Research Analyst Intern",
+      "openingDate": "2026-07-13T00:00:00.000Z",
+      "name": "Quantitative Trading Analyst Intern",
       "company": "DRW"
     },
     "kaugw1nera": {
