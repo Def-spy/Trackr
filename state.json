@@ -1,13 +1,8 @@
 {
-  "updated": "2026-07-15T08:19:23.555038+00:00",
-  "row_count": 429,
-  "raw_bytes": 694637,
+  "updated": "2026-07-15T13:43:59.117974+00:00",
+  "row_count": 428,
+  "raw_bytes": 693552,
   "programmes": {
-    "312d27yd38": {
-      "openingDate": "2026-07-03T00:00:00.000Z",
-      "name": "TikTok Content Creator",
-      "company": "Trackr"
-    },
     "36jiyb6sx2": {
       "openingDate": "2026-06-07T00:00:00.000Z",
       "name": "Summer Analyst Training Programme",
@@ -1149,8 +1144,8 @@
       "company": "AJ Bell"
     },
     "nx5tp91e0i": {
-      "openingDate": null,
-      "name": "Internship: Summer 2027",
+      "openingDate": "2026-07-15T00:00:00.000Z",
+      "name": "Quantitative Trading Internship: Summer 2027",
       "company": "Susquehanna International Group"
     },
     "o1vkdelshm": {
