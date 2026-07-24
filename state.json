@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-23T14:00:03.806915+00:00",
+  "updated": "2026-07-24T08:31:45.946039+00:00",
   "row_count": 428,
-  "raw_bytes": 693973,
+  "raw_bytes": 694157,
   "programmes": {
     "36jiyb6sx2": {
       "openingDate": "2026-06-07T00:00:00.000Z",
@@ -749,8 +749,8 @@
       "company": "GSA Capital"
     },
     "jgbgdkn8pv": {
-      "openingDate": null,
-      "name": "Internship in Quantitative Research",
+      "openingDate": "2026-07-23T00:00:00.000Z",
+      "name": "Quant Research Internship",
       "company": "G-Research"
     },
     "jj4ud8v1p5": {
