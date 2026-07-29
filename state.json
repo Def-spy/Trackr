@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-29T08:45:25.533298+00:00",
+  "updated": "2026-07-29T14:10:10.246101+00:00",
   "row_count": 428,
-  "raw_bytes": 694157,
+  "raw_bytes": 694702,
   "programmes": {
     "36jiyb6sx2": {
       "openingDate": "2026-06-07T00:00:00.000Z",
@@ -410,7 +410,7 @@
     },
     "exhuqzlxhm": {
       "openingDate": "2026-05-21T00:00:00.000Z",
-      "name": "International Equities Associate \u2013 Intern",
+      "name": "2027 Associate Intern",
       "company": "Citadel"
     },
     "exvak3czfl": {
@@ -459,7 +459,7 @@
       "company": "Azets"
     },
     "fhjymdzi8w": {
-      "openingDate": null,
+      "openingDate": "2026-07-29T00:00:00.000Z",
       "name": "Intern Quant Researcher",
       "company": "Squarepoint Capital"
     },
@@ -2114,8 +2114,8 @@
       "company": "First Actuarial"
     },
     "zo14nc37p9": {
-      "openingDate": null,
-      "name": "Quantitative Trading - Intern",
+      "openingDate": "2026-04-21T00:00:00.000Z",
+      "name": "Trading & Quant Internship 2027",
       "company": "Citadel Securities"
     },
     "zobpz6my5d": {
