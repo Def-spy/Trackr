@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-31T08:54:15.113014+00:00",
-  "row_count": 428,
-  "raw_bytes": 694702,
+  "updated": "2026-07-31T14:06:49.804625+00:00",
+  "row_count": 429,
+  "raw_bytes": 696599,
   "programmes": {
     "36jiyb6sx2": {
       "openingDate": "2026-06-07T00:00:00.000Z",
@@ -1982,6 +1982,11 @@
       "openingDate": null,
       "name": "Intern, Investment Management",
       "company": "Chatham Financial"
+    },
+    "xvndqdfnik": {
+      "openingDate": "2026-07-31T00:00:00.000Z",
+      "name": "2027 Quant Researcher Intern",
+      "company": "Millennium Management"
     },
     "xyn3tm5ytg": {
       "openingDate": null,
