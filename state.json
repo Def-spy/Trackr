@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-01T08:25:14.762374+00:00",
-  "row_count": 429,
-  "raw_bytes": 696794,
+  "updated": "2026-08-01T13:20:56.485241+00:00",
+  "row_count": 430,
+  "raw_bytes": 698762,
   "programmes": {
     "36jiyb6sx2": {
       "openingDate": "2026-06-07T00:00:00.000Z",
@@ -1837,6 +1837,11 @@
       "openingDate": null,
       "name": "Quant Research Internship - Summer 2027",
       "company": "Hudson River Trading"
+    },
+    "wcctkp084l": {
+      "openingDate": "2026-08-01T00:00:00.000Z",
+      "name": "2027 Non-Investment Summer Intern",
+      "company": "Millennium Management"
     },
     "wdgdzs85ha": {
       "openingDate": null,
