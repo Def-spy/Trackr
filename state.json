@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-03T09:52:02.557839+00:00",
-  "row_count": 430,
-  "raw_bytes": 698415,
+  "updated": "2026-08-03T14:39:02.506330+00:00",
+  "row_count": 431,
+  "raw_bytes": 700376,
   "programmes": {
     "36jiyb6sx2": {
       "openingDate": "2026-06-07T00:00:00.000Z",
@@ -723,6 +723,11 @@
       "name": "2027 Summer Analyst Programme",
       "company": "Morgan Stanley"
     },
+    "iyocl5x6ux": {
+      "openingDate": "2026-08-03T00:00:00.000Z",
+      "name": "Private Equity Summer Internship 2027",
+      "company": "Atlas Holdings"
+    },
     "j0du02xc2g": {
       "openingDate": null,
       "name": "Investment Intern",
@@ -1259,7 +1264,7 @@
       "company": "TikTok"
     },
     "pcv5hecqpx": {
-      "openingDate": null,
+      "openingDate": "2026-08-03T00:00:00.000Z",
       "name": "Summer 2027 Analyst Programme",
       "company": "Bank of America"
     },
