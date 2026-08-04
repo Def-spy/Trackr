@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-03T14:39:02.506330+00:00",
-  "row_count": 431,
-  "raw_bytes": 700376,
+  "updated": "2026-08-04T08:42:18.072405+00:00",
+  "row_count": 432,
+  "raw_bytes": 701974,
   "programmes": {
     "36jiyb6sx2": {
       "openingDate": "2026-06-07T00:00:00.000Z",
@@ -1647,6 +1647,11 @@
       "openingDate": null,
       "name": "Business Development Intern (Chinese speaking)",
       "company": "WeChat Pay"
+    },
+    "tuzf25ew1u": {
+      "openingDate": "2026-08-03T00:00:00.000Z",
+      "name": "Summer Undergrad 2027",
+      "company": "BTG Pactual"
     },
     "twiav5mr2j": {
       "openingDate": null,
