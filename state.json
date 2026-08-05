@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-04T14:11:35.617826+00:00",
+  "updated": "2026-08-05T08:40:49.680841+00:00",
   "row_count": 432,
-  "raw_bytes": 701974,
+  "raw_bytes": 702201,
   "programmes": {
     "36jiyb6sx2": {
       "openingDate": "2026-06-07T00:00:00.000Z",
@@ -1844,8 +1844,8 @@
       "company": "Lendable"
     },
     "wan7ar5jyb": {
-      "openingDate": null,
-      "name": "Quant Research Internship - Summer 2027",
+      "openingDate": "2026-08-04T00:00:00.000Z",
+      "name": "Quant Research & Trading Internship - Summer 2027",
       "company": "Hudson River Trading"
     },
     "wcctkp084l": {
