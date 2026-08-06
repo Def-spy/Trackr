@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-06T08:41:34.253825+00:00",
-  "row_count": 432,
-  "raw_bytes": 702303,
+  "updated": "2026-08-06T14:09:35.254723+00:00",
+  "row_count": 433,
+  "raw_bytes": 704035,
   "programmes": {
     "36jiyb6sx2": {
       "openingDate": "2026-06-07T00:00:00.000Z",
@@ -1917,6 +1917,11 @@
       "openingDate": null,
       "name": "Finance Planning & Reporting Internship",
       "company": "AstraZeneca"
+    },
+    "x7rffdyk80": {
+      "openingDate": "2026-08-06T00:00:00.000Z",
+      "name": "Summer Intern Programme 2027",
+      "company": "SMBC"
     },
     "xakjokmg1n": {
       "openingDate": null,
