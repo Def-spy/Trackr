@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-07T07:20:26.959783+00:00",
-  "row_count": 433,
-  "raw_bytes": 704626,
+  "updated": "2026-08-07T13:03:03.731161+00:00",
+  "row_count": 434,
+  "raw_bytes": 706741,
   "programmes": {
     "36jiyb6sx2": {
       "openingDate": "2026-06-07T00:00:00.000Z",
@@ -1732,6 +1732,11 @@
       "openingDate": null,
       "name": "2027 Summer Investment Analyst",
       "company": "Arena Investors"
+    },
+    "v6k3opwunl": {
+      "openingDate": "2026-08-07T00:00:00.000Z",
+      "name": "2026 Summer Analyst",
+      "company": "Hines"
     },
     "v9f07euc83": {
       "openingDate": null,
