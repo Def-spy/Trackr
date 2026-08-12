@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-12T07:36:52.061526+00:00",
+  "updated": "2026-08-12T13:09:07.347265+00:00",
   "row_count": 434,
-  "raw_bytes": 706732,
+  "raw_bytes": 706979,
   "programmes": {
     "36jiyb6sx2": {
       "openingDate": "2026-06-07T00:00:00.000Z",
@@ -64,7 +64,7 @@
       "company": "Schonfeld"
     },
     "akn7aqzxhe": {
-      "openingDate": null,
+      "openingDate": "2026-08-12T00:00:00.000Z",
       "name": "Quantitative Researcher Internship - 2027",
       "company": "Quantbot Technologies"
     },
@@ -259,8 +259,8 @@
       "company": "Temasek"
     },
     "cxamkqkpx8": {
-      "openingDate": null,
-      "name": "2027 Summer Internship",
+      "openingDate": "2026-08-12T00:00:00.000Z",
+      "name": "2027 Summer Internship Programme",
       "company": "Centerview Partners"
     },
     "cy7vjr24s4": {
