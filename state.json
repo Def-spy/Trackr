@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-12T13:09:07.347265+00:00",
-  "row_count": 434,
-  "raw_bytes": 706979,
+  "updated": "2026-08-13T07:38:46.034634+00:00",
+  "row_count": 435,
+  "raw_bytes": 708853,
   "programmes": {
     "36jiyb6sx2": {
       "openingDate": "2026-06-07T00:00:00.000Z",
@@ -948,6 +948,11 @@
       "name": "Financial Markets Intern 2027",
       "company": "NextWave Consulting"
     },
+    "lkne03tuty": {
+      "openingDate": "2026-08-12T00:00:00.000Z",
+      "name": "Student Analyst \u2013 Investment Technology, Real Estate (Part-time)",
+      "company": "Patrizia"
+    },
     "lnamuraem2": {
       "openingDate": null,
       "name": "Intern - Campus Summer 2027",
@@ -1379,8 +1384,8 @@
       "company": "Teneo"
     },
     "qy3az3ysxe": {
-      "openingDate": null,
-      "name": "2027 Summer Internship - Trading",
+      "openingDate": "2026-08-12T00:00:00.000Z",
+      "name": "Trading Intern - Summer 2027",
       "company": "DV Trading"
     },
     "qzbods765y": {
