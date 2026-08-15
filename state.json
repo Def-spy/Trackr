@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-15T06:42:11.712312+00:00",
+  "updated": "2026-08-15T12:36:28.500292+00:00",
   "row_count": 435,
-  "raw_bytes": 708919,
+  "raw_bytes": 709116,
   "programmes": {
     "36jiyb6sx2": {
       "openingDate": "2026-06-07T00:00:00.000Z",
@@ -1004,7 +1004,7 @@
       "company": "Bastion Trading"
     },
     "m2eww31v2k": {
-      "openingDate": null,
+      "openingDate": "2026-08-15T00:00:00.000Z",
       "name": "2027 Summer Analyst Programme",
       "company": "Goldman Sachs"
     },
