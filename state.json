@@ -1,12 +1,17 @@
 {
-  "updated": "2026-08-17T07:00:54.458980+00:00",
-  "row_count": 435,
-  "raw_bytes": 716076,
+  "updated": "2026-08-17T12:42:43.900244+00:00",
+  "row_count": 436,
+  "raw_bytes": 719059,
   "programmes": {
     "36jiyb6sx2": {
       "openingDate": "2026-06-07T00:00:00.000Z",
       "name": "Summer Analyst Training Programme",
       "company": "AmplifyME"
+    },
+    "8q64c5c67r": {
+      "openingDate": "2026-08-17T00:00:00.000Z",
+      "name": "2027 Summer Internship Programme",
+      "company": "LionTree"
     },
     "a1g6tsa2mi": {
       "openingDate": null,
@@ -120,7 +125,7 @@
     },
     "b5h2vlmj7b": {
       "openingDate": null,
-      "name": "Quantitative Trading Internship",
+      "name": "Quantitative Trading Internship (2027 Start)",
       "company": "Optiver"
     },
     "b5izv0o14h": {
@@ -619,8 +624,8 @@
       "company": "Qatalyst Partners"
     },
     "ho7htxctdb": {
-      "openingDate": null,
-      "name": "2027 Summer Intern Program",
+      "openingDate": "2026-08-17T00:00:00.000Z",
+      "name": "2027 Summer Internship",
       "company": "UBS"
     },
     "hu647l11hv": {
@@ -659,8 +664,8 @@
       "company": "Alvine Capital"
     },
     "icy6ukpknj": {
-      "openingDate": null,
-      "name": "Internship Programme UK 2027",
+      "openingDate": "2026-08-17T00:00:00.000Z",
+      "name": "Internship Programme 2027",
       "company": "Standard Chartered"
     },
     "ifa4g777x0": {
@@ -2114,7 +2119,7 @@
       "company": "Equinor"
     },
     "z8fh9wc9uf": {
-      "openingDate": null,
+      "openingDate": "2026-08-17T00:00:00.000Z",
       "name": "Summer Internship (2027)",
       "company": "Evercore"
     },
