@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-18T06:48:32.773455+00:00",
-  "row_count": 436,
-  "raw_bytes": 719187,
+  "updated": "2026-08-18T12:45:24.521169+00:00",
+  "row_count": 437,
+  "raw_bytes": 721390,
   "programmes": {
     "36jiyb6sx2": {
       "openingDate": "2026-06-07T00:00:00.000Z",
@@ -49,7 +49,7 @@
       "company": "Neuberger Berman"
     },
     "acrh43hawb": {
-      "openingDate": null,
+      "openingDate": "2026-08-18T00:00:00.000Z",
       "name": "2027 Summer Internship Programme",
       "company": "BNP Paribas"
     },
@@ -1179,8 +1179,8 @@
       "company": "Capstone"
     },
     "o75mg75ucl": {
-      "openingDate": null,
-      "name": "Quantitative Researcher Intern",
+      "openingDate": "2026-08-18T00:00:00.000Z",
+      "name": "Quantitative Researcher Internship",
       "company": "Xantium"
     },
     "o7nzqmb8a8": {
@@ -1254,7 +1254,7 @@
       "company": "Javelin Global Commodities"
     },
     "p5ry62gg69": {
-      "openingDate": null,
+      "openingDate": "2026-08-18T00:00:00.000Z",
       "name": "2027 Summer Analyst, Investment Banking",
       "company": "Moelis & Co"
     },
@@ -1407,6 +1407,11 @@
       "openingDate": null,
       "name": "Investment Banking Summer Intern",
       "company": "Stifel"
+    },
+    "r24wwydaz1": {
+      "openingDate": "2026-08-18T00:00:00.000Z",
+      "name": "Quantitative Research Internship",
+      "company": "iSAM"
     },
     "r3m482qusd": {
       "openingDate": null,
