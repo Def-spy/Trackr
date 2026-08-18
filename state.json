@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-17T12:42:43.900244+00:00",
+  "updated": "2026-08-18T06:48:32.773455+00:00",
   "row_count": 436,
-  "raw_bytes": 719059,
+  "raw_bytes": 719187,
   "programmes": {
     "36jiyb6sx2": {
       "openingDate": "2026-06-07T00:00:00.000Z",
@@ -1994,7 +1994,7 @@
       "company": "Macquarie Group"
     },
     "xol1zhqfwc": {
-      "openingDate": null,
+      "openingDate": "2026-08-17T00:00:00.000Z",
       "name": "Summer Internship Opportunities 2027",
       "company": "Walter Scott"
     },
