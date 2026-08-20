@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-19T12:46:03.822095+00:00",
+  "updated": "2026-08-20T06:50:52.913329+00:00",
   "row_count": 437,
-  "raw_bytes": 728078,
+  "raw_bytes": 728983,
   "programmes": {
     "36jiyb6sx2": {
       "openingDate": "2026-06-07T00:00:00.000Z",
@@ -24,8 +24,8 @@
       "company": "AXA"
     },
     "a69wnq98uh": {
-      "openingDate": null,
-      "name": "2027 Redburn Summer Programme",
+      "openingDate": "2026-08-19T00:00:00.000Z",
+      "name": "2027 Redburn Summer Intern Programme",
       "company": "Redburn"
     },
     "a708ak3kpa": {
@@ -1069,7 +1069,7 @@
       "company": "Marshall Wace"
     },
     "mvai4mbaih": {
-      "openingDate": null,
+      "openingDate": "2026-08-19T00:00:00.000Z",
       "name": "2027 Summer Analyst Programme",
       "company": "Rothschild & Co."
     },
@@ -1909,7 +1909,7 @@
       "company": "McKinsey & Company"
     },
     "wx957fsiab": {
-      "openingDate": null,
+      "openingDate": "2026-08-19T00:00:00.000Z",
       "name": "Summer Analyst Programme 2027",
       "company": "Ares Management"
     },
