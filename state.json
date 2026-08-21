@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-20T12:49:34.295899+00:00",
+  "updated": "2026-08-21T06:51:56.259366+00:00",
   "row_count": 437,
-  "raw_bytes": 729008,
+  "raw_bytes": 728964,
   "programmes": {
     "36jiyb6sx2": {
       "openingDate": "2026-06-07T00:00:00.000Z",
@@ -1904,7 +1904,7 @@
       "company": "BCG"
     },
     "wjpek44jr1": {
-      "openingDate": "2026-08-13T00:00:00.000Z",
+      "openingDate": null,
       "name": "Business Analyst Intern",
       "company": "McKinsey & Company"
     },
