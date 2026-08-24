@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-23T12:38:58.887931+00:00",
+  "updated": "2026-08-24T07:03:48.822970+00:00",
   "row_count": 437,
-  "raw_bytes": 729766,
+  "raw_bytes": 729890,
   "programmes": {
     "36jiyb6sx2": {
       "openingDate": "2026-06-07T00:00:00.000Z",
@@ -124,7 +124,7 @@
       "company": "Liquidnet"
     },
     "b5h2vlmj7b": {
-      "openingDate": null,
+      "openingDate": "2026-08-20T00:00:00.000Z",
       "name": "Quantitative Trading Internship (2027 Start)",
       "company": "Optiver"
     },
@@ -789,8 +789,8 @@
       "company": "Howden"
     },
     "jvqp1omvr4": {
-      "openingDate": null,
-      "name": "Summer Internship",
+      "openingDate": "2026-08-23T00:00:00.000Z",
+      "name": "Summer Intern - Investment Management",
       "company": "Franklin Templeton"
     },
     "jvu629ro7q": {
