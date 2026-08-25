@@ -1,8 +1,13 @@
 {
-  "updated": "2026-08-24T12:49:44.181671+00:00",
-  "row_count": 437,
-  "raw_bytes": 729890,
+  "updated": "2026-08-25T06:53:08.819594+00:00",
+  "row_count": 438,
+  "raw_bytes": 732642,
   "programmes": {
+    "0072a2odck": {
+      "openingDate": "2026-08-24T00:00:00.000Z",
+      "name": "Summer Associate Consultant \u2013 2029 Internship Program",
+      "company": "Inizio Ignite"
+    },
     "36jiyb6sx2": {
       "openingDate": "2026-06-07T00:00:00.000Z",
       "name": "Summer Analyst Training Programme",
@@ -274,7 +279,7 @@
       "company": "Grant Thornton"
     },
     "d54muvlsjk": {
-      "openingDate": null,
+      "openingDate": "2026-08-24T00:00:00.000Z",
       "name": "2027 Summer Internship Program",
       "company": "BNY Mellon"
     },
@@ -924,8 +929,8 @@
       "company": "Rystad Energy"
     },
     "la4z9pe7bb": {
-      "openingDate": null,
-      "name": "2027 Summer Analyst",
+      "openingDate": "2026-08-24T00:00:00.000Z",
+      "name": "2027 Summer Analyst Program",
       "company": "Raine Group"
     },
     "lb1022kzh5": {
@@ -1759,7 +1764,7 @@
       "company": "BAE Systems"
     },
     "v9zvqe2c2u": {
-      "openingDate": null,
+      "openingDate": "2026-08-24T00:00:00.000Z",
       "name": "2027 Investment Banking Analyst Intern",
       "company": "Guggenheim Partners"
     },
@@ -2089,7 +2094,7 @@
       "company": "EQT"
     },
     "ywd6qq727f": {
-      "openingDate": null,
+      "openingDate": "2026-08-24T00:00:00.000Z",
       "name": "Private Equity Summer Internship 2027",
       "company": "CD&R"
     },
