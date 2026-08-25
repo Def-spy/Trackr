@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-25T06:53:08.819594+00:00",
+  "updated": "2026-08-25T12:46:41.549675+00:00",
   "row_count": 438,
-  "raw_bytes": 732642,
+  "raw_bytes": 732784,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -2174,7 +2174,7 @@
       "company": "Royal London"
     },
     "zoclv3wrrh": {
-      "openingDate": null,
+      "openingDate": "2026-08-25T00:00:00.000Z",
       "name": "2027 Summer Analyst Programme",
       "company": "Ardea Partners"
     },
