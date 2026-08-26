@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-26T06:54:25.582579+00:00",
-  "row_count": 438,
-  "raw_bytes": 732784,
+  "updated": "2026-08-26T12:51:33.322828+00:00",
+  "row_count": 440,
+  "raw_bytes": 736686,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -334,8 +334,8 @@
       "company": "Fide Partners"
     },
     "dueuynil40": {
-      "openingDate": null,
-      "name": "EMEA Summer Analyst",
+      "openingDate": "2026-08-26T00:00:00.000Z",
+      "name": "EMEA Banking Summer Analyst",
       "company": "Wells Fargo"
     },
     "dyyl9ib68p": {
@@ -1473,6 +1473,11 @@
       "name": "2027 Summer Internship Programme",
       "company": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale"
     },
+    "rvz0tvxdnz": {
+      "openingDate": "2026-08-26T00:00:00.000Z",
+      "name": "EMEA Commercial Real Estate Summer Analyst",
+      "company": "Wells Fargo"
+    },
     "rwm4p1g45l": {
       "openingDate": null,
       "name": "2027 Internship Programme",
@@ -1777,6 +1782,11 @@
       "openingDate": null,
       "name": "Summer Analyst Programme 2027",
       "company": "DC Advisory"
+    },
+    "vgoizstq6i": {
+      "openingDate": "2026-08-26T00:00:00.000Z",
+      "name": "EMEA Markets Summer Analyst",
+      "company": "Wells Fargo"
     },
     "vilbyy5a0z": {
       "openingDate": null,
