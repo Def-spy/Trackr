@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-26T12:51:33.322828+00:00",
+  "updated": "2026-08-27T17:27:39.123954+00:00",
   "row_count": 440,
-  "raw_bytes": 736686,
+  "raw_bytes": 744457,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -1354,8 +1354,8 @@
       "company": "Mako Trading"
     },
     "qf1fmy9uio": {
-      "openingDate": null,
-      "name": "Strategy Analyst Intern",
+      "openingDate": "2026-08-27T00:00:00.000Z",
+      "name": "Strategy Analyst Summer Internship",
       "company": "Capital One"
     },
     "qgua0k1sb0": {
