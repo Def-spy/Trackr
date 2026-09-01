@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-01T11:20:35.516768+00:00",
-  "row_count": 470,
-  "raw_bytes": 819680,
+  "updated": "2026-09-01T16:09:22.999939+00:00",
+  "row_count": 469,
+  "raw_bytes": 818687,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -118,11 +118,6 @@
       "name": "Summer Internship 2027",
       "company": "PwC"
     },
-    "aayfza2mcj": {
-      "openingDate": null,
-      "name": "Investment Banking Summer Analyst, Secondary Advisory",
-      "company": "William Blair"
-    },
     "abmnsbyf12": {
       "openingDate": null,
       "name": "Intern",
@@ -164,7 +159,7 @@
       "company": "Pension Insurance Corporation"
     },
     "apyw38vww4": {
-      "openingDate": null,
+      "openingDate": "2026-09-01T00:00:00.000Z",
       "name": "Quantitative Trader/Researcher Summer Internship 2027",
       "company": "Tower Research Capital"
     },
@@ -399,7 +394,7 @@
       "company": "ABN AMRO"
     },
     "dfevld4zx3": {
-      "openingDate": null,
+      "openingDate": "2026-09-01T00:00:00.000Z",
       "name": "Summer Internship 2027",
       "company": "NERA"
     },
@@ -794,7 +789,7 @@
       "company": "Baird"
     },
     "iir7vv973l": {
-      "openingDate": null,
+      "openingDate": "2026-09-01T00:00:00.000Z",
       "name": "Investment Banking Summer 2027 Analyst",
       "company": "William Blair"
     },
@@ -1964,7 +1959,7 @@
       "company": "Cushman & Wakefield"
     },
     "vscaes1pb4": {
-      "openingDate": null,
+      "openingDate": "2026-09-01T00:00:00.000Z",
       "name": "Trader Summer Internship 2027",
       "company": "Maven Securities"
     },
