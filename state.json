@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-01T16:09:22.999939+00:00",
-  "row_count": 469,
-  "raw_bytes": 818687,
+  "updated": "2026-09-02T10:54:35.997818+00:00",
+  "row_count": 471,
+  "raw_bytes": 823207,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -808,6 +808,11 @@
       "name": "Actuarial Summer Intern (July 2027)",
       "company": "Just"
     },
+    "ioeo5uln8y": {
+      "openingDate": null,
+      "name": "Investment Banking, Summer Analyst 2027",
+      "company": "Citi"
+    },
     "ioh6unf9t7": {
       "openingDate": null,
       "name": "Internship 2027",
@@ -1113,6 +1118,11 @@
       "name": "Summer Internship Programme 2027",
       "company": "Arkle Finance"
     },
+    "m04ecmm7nx": {
+      "openingDate": "2026-09-01T00:00:00.000Z",
+      "name": "Spring into Quant Finance 2027",
+      "company": "G-Research"
+    },
     "m175wbwe1c": {
       "openingDate": null,
       "name": "Trading & Quant Summer Internship 2027",
@@ -1264,8 +1274,8 @@
       "company": "Hymans Robertson"
     },
     "nws0cqrwfc": {
-      "openingDate": null,
-      "name": "Summer Analyst 2027",
+      "openingDate": "2026-09-01T00:00:00.000Z",
+      "name": "Sales and Trading, Summer Analyst, 2027",
       "company": "Citi"
     },
     "nwym67d2by": {
@@ -1899,7 +1909,7 @@
       "company": "Guggenheim Partners"
     },
     "ver14sozvm": {
-      "openingDate": null,
+      "openingDate": "2026-09-01T00:00:00.000Z",
       "name": "2027 Summer Internship",
       "company": "Eastdil Secured"
     },
