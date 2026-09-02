@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-02T10:54:35.997818+00:00",
+  "updated": "2026-09-02T16:04:24.623382+00:00",
   "row_count": 471,
-  "raw_bytes": 823207,
+  "raw_bytes": 823433,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -1189,8 +1189,8 @@
       "company": "Weatherbys Private Bank"
     },
     "mrj7k0ivdd": {
-      "openingDate": null,
-      "name": "Quant Research Intern",
+      "openingDate": "2026-09-02T00:00:00.000Z",
+      "name": "Quant Research Intern - 2027",
       "company": "Marshall Wace"
     },
     "mvai4mbaih": {
@@ -2094,7 +2094,7 @@
       "company": "AstraZeneca"
     },
     "x7rffdyk80": {
-      "openingDate": "2026-08-06T00:00:00.000Z",
+      "openingDate": "2026-08-07T00:00:00.000Z",
       "name": "Summer Intern Programme 2027",
       "company": "SMBC"
     },
