@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-02T16:04:24.623382+00:00",
+  "updated": "2026-09-03T10:54:09.687195+00:00",
   "row_count": 471,
-  "raw_bytes": 823433,
+  "raw_bytes": 823916,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -409,8 +409,8 @@
       "company": "FactSet"
     },
     "dqhzub5g4a": {
-      "openingDate": null,
-      "name": "Summer Analyst",
+      "openingDate": "2026-09-03T00:00:00.000Z",
+      "name": "2027 Summer Analyst",
       "company": "Harris Williams"
     },
     "dt3wtfqpqg": {
@@ -1489,7 +1489,7 @@
       "company": "Capital One"
     },
     "qgua0k1sb0": {
-      "openingDate": null,
+      "openingDate": "2026-09-02T00:00:00.000Z",
       "name": "FIG Summer Intern",
       "company": "Alantra"
     },
