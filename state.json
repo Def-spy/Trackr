@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-03T10:54:09.687195+00:00",
+  "updated": "2026-09-03T15:54:19.003615+00:00",
   "row_count": 471,
-  "raw_bytes": 823916,
+  "raw_bytes": 811861,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -286,7 +286,7 @@
     "c10zc6rp2t": {
       "openingDate": null,
       "name": "Summer Internship - Trading & Shipping",
-      "company": "BP"
+      "company": "bp"
     },
     "c2zevtekgi": {
       "openingDate": null,
