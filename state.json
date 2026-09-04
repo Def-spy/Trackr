@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-04T10:53:27.082390+00:00",
-  "row_count": 471,
-  "raw_bytes": 811925,
+  "updated": "2026-09-04T15:51:40.733656+00:00",
+  "row_count": 472,
+  "raw_bytes": 814067,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -1138,6 +1138,11 @@
       "name": "Emerging Talent - Finance 2027 Opportunities",
       "company": "Baker Hughes"
     },
+    "m5e2q8xt9n": {
+      "openingDate": "2026-09-04T00:00:00.000Z",
+      "name": "Corporate Banking, Summer Analyst, 2027",
+      "company": "Citi"
+    },
     "ma6dlwvi1w": {
       "openingDate": null,
       "name": "2027 TMK Actuarial & Analytics Internship Programme",
@@ -1369,7 +1374,7 @@
       "company": "Barclays"
     },
     "oxhgvuijlq": {
-      "openingDate": null,
+      "openingDate": "2026-09-04T00:00:00.000Z",
       "name": "Summer Internship 2027",
       "company": "Oliver Wyman"
     },
