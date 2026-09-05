@@ -1,12 +1,17 @@
 {
-  "updated": "2026-09-04T15:51:40.733656+00:00",
-  "row_count": 472,
-  "raw_bytes": 814067,
+  "updated": "2026-09-05T10:13:14.343519+00:00",
+  "row_count": 474,
+  "raw_bytes": 819610,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
       "name": "Summer Associate Consultant \u2013 2029 Internship Program",
       "company": "Inizio Ignite"
+    },
+    "0ji574xrj5": {
+      "openingDate": "2026-09-04T00:00:00.000Z",
+      "name": "2027 Quant Researcher Summer Internship",
+      "company": "Man Group"
     },
     "0raizvznqa": {
       "openingDate": "2026-08-31T00:00:00.000Z",
@@ -563,6 +568,11 @@
       "name": "Internal Audit Intern",
       "company": "Coinbase"
     },
+    "fcvsiigfi3": {
+      "openingDate": "2026-09-04T00:00:00.000Z",
+      "name": "2027 Summer Internship - Quant Research and Trading",
+      "company": "XY Capital"
+    },
     "fe2i6kwkvq": {
       "openingDate": null,
       "name": "Underwriting Assistant Intern",
@@ -1059,8 +1069,8 @@
       "company": "Howden"
     },
     "lhwn2offnc": {
-      "openingDate": null,
-      "name": "Internship Programme",
+      "openingDate": "2026-09-04T00:00:00.000Z",
+      "name": "2027 Summer Internship Programme",
       "company": "Rothesay"
     },
     "lk5pk8ey90": {
@@ -1402,6 +1412,11 @@
       "openingDate": null,
       "name": "Quant Research Internship (Summer 2027)",
       "company": "Wintermute"
+    },
+    "pc8s7wde9w": {
+      "openingDate": "2026-09-04T00:00:00.000Z",
+      "name": "IDI Summer 2027 Internship",
+      "company": "Man Group"
     },
     "pcef45k85e": {
       "openingDate": null,
@@ -2287,11 +2302,6 @@
       "openingDate": null,
       "name": "Summer Internship 2027",
       "company": "Forvis Mazars"
-    },
-    "z3igl8zoku": {
-      "openingDate": null,
-      "name": "2027 Summer Internship Programme",
-      "company": "First Bank of Nigeria"
     },
     "z6pc6xn0el": {
       "openingDate": null,
