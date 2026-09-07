@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-07T11:57:51.229117+00:00",
-  "row_count": 481,
-  "raw_bytes": 836921,
+  "updated": "2026-09-07T17:21:57.781703+00:00",
+  "row_count": 490,
+  "raw_bytes": 866120,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -79,14 +79,29 @@
       "company": "Macquarie Group"
     },
     "4bw23kdkoy": {
-      "openingDate": null,
+      "openingDate": "2026-09-07T00:00:00.000Z",
       "name": "Investment Banking Internship Programme 2027",
       "company": "Deutsche Bank"
+    },
+    "4fmrbowtr2": {
+      "openingDate": "2026-09-07T00:00:00.000Z",
+      "name": "2027 Global Markets Summer Internship",
+      "company": "Mizuho"
+    },
+    "4kmwvrkm26": {
+      "openingDate": "2026-09-07T00:00:00.000Z",
+      "name": "2027 Banking Summer Internship",
+      "company": "Mizuho"
     },
     "661ba2dbyd": {
       "openingDate": "2026-09-07T00:00:00.000Z",
       "name": "2027 Internal Audit Summer Analyst Programme",
       "company": "Morgan Stanley"
+    },
+    "70ebkw3q2x": {
+      "openingDate": "2026-09-07T00:00:00.000Z",
+      "name": "Investment Banking (UK Coverage) Internship Programme",
+      "company": "Deutsche Bank"
     },
     "7hcdw0f751": {
       "openingDate": "2026-08-31T00:00:00.000Z",
@@ -373,6 +388,11 @@
       "name": "Temasek Summer Associate Programme 2027",
       "company": "Temasek"
     },
+    "cui3ntc1zz": {
+      "openingDate": "2026-09-07T00:00:00.000Z",
+      "name": "Fixed Income and Currencies Internship Programme 2027",
+      "company": "Deutsche Bank"
+    },
     "cvvyadayzh": {
       "openingDate": "2026-08-31T00:00:00.000Z",
       "name": "2027 - Investment Banking - Coverage & Advisory - Summer Internship",
@@ -459,8 +479,8 @@
       "company": "Qube RT"
     },
     "dzr243u4q0": {
-      "openingDate": null,
-      "name": "Summer Financial Analyst 2027",
+      "openingDate": "2026-09-07T00:00:00.000Z",
+      "name": "2027 Summer Financial Analyst \u2013 Capital Solutions",
       "company": "Houlihan Lokey"
     },
     "e16v4wdamh": {
@@ -512,6 +532,11 @@
       "openingDate": null,
       "name": "Summer Diversity Internship 2027",
       "company": "Alpha FMC"
+    },
+    "ermb66lsgs": {
+      "openingDate": "2026-09-07T00:00:00.000Z",
+      "name": "2027 Finance Summer Internship",
+      "company": "Mizuho"
     },
     "esbb5g26se": {
       "openingDate": null,
@@ -918,6 +943,11 @@
       "name": "Summer Analyst",
       "company": "Westgrove"
     },
+    "jmud9hszig": {
+      "openingDate": "2026-09-07T00:00:00.000Z",
+      "name": "2027 Summer Financial Analyst - Corporate Finance (M&A)",
+      "company": "Houlihan Lokey"
+    },
     "jp01p6e92w": {
       "openingDate": null,
       "name": "Summer Internship C&IB",
@@ -1047,6 +1077,11 @@
       "openingDate": null,
       "name": "Investment Banking Summer Internship 2027",
       "company": "Gleacher Shacklock"
+    },
+    "l17ec0kcjp": {
+      "openingDate": "2026-09-07T00:00:00.000Z",
+      "name": "2027 Global Transaction Banking Summer Internship",
+      "company": "Mizuho"
     },
     "l28bp19oez": {
       "openingDate": null,
@@ -1619,8 +1654,8 @@
       "company": "Cr\u00e9dit Agricole"
     },
     "rcnjysntuc": {
-      "openingDate": null,
-      "name": "Summer Internship",
+      "openingDate": "2026-09-07T00:00:00.000Z",
+      "name": "2027 Risk and Credit Risk Summer Internship",
       "company": "Mizuho"
     },
     "rd3onmzp20": {
@@ -2228,6 +2263,11 @@
       "name": "Intern, Investment Management",
       "company": "Chatham Financial"
     },
+    "xv7rvzmg3x": {
+      "openingDate": "2026-09-07T00:00:00.000Z",
+      "name": "Summer Financial Analyst 2027 - Financial Restructuring",
+      "company": "Houlihan Lokey"
+    },
     "xvndqdfnik": {
       "openingDate": "2026-07-31T00:00:00.000Z",
       "name": "2027 Quant Researcher Intern",
@@ -2267,6 +2307,11 @@
       "openingDate": null,
       "name": "Intern - Summer 2027",
       "company": "Charles River Associates"
+    },
+    "ygixj2sl5h": {
+      "openingDate": "2026-09-07T00:00:00.000Z",
+      "name": "2027 Operations Summer Internship",
+      "company": "Mizuho"
     },
     "yhv4d2cyag": {
       "openingDate": "2026-08-31T00:00:00.000Z",
