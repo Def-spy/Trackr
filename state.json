@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-06T15:01:07.751159+00:00",
-  "row_count": 474,
-  "raw_bytes": 819610,
+  "updated": "2026-09-07T11:57:51.229117+00:00",
+  "row_count": 481,
+  "raw_bytes": 836921,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -37,6 +37,11 @@
       "openingDate": "2026-09-01T00:00:00.000Z",
       "name": "Restructuring Summer Internship (2027)",
       "company": "Evercore"
+    },
+    "1z0xxvhzcv": {
+      "openingDate": "2026-09-07T00:00:00.000Z",
+      "name": "Global Banking and Advisory 2027 Summer Internship Programme",
+      "company": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale"
     },
     "225glw758z": {
       "openingDate": "2026-08-31T00:00:00.000Z",
@@ -77,6 +82,11 @@
       "openingDate": null,
       "name": "Investment Banking Internship Programme 2027",
       "company": "Deutsche Bank"
+    },
+    "661ba2dbyd": {
+      "openingDate": "2026-09-07T00:00:00.000Z",
+      "name": "2027 Internal Audit Summer Analyst Programme",
+      "company": "Morgan Stanley"
     },
     "7hcdw0f751": {
       "openingDate": "2026-08-31T00:00:00.000Z",
@@ -758,6 +768,11 @@
       "name": "Front Office - Internship",
       "company": "NatWest Markets"
     },
+    "hxbifu24pu": {
+      "openingDate": "2026-09-07T00:00:00.000Z",
+      "name": "2027 Sales & Trading Summer Analyst Programme",
+      "company": "Morgan Stanley"
+    },
     "i5ditgb79q": {
       "openingDate": null,
       "name": "Internship Programme 2027",
@@ -794,8 +809,8 @@
       "company": "Burford Capital"
     },
     "igzfyg43go": {
-      "openingDate": null,
-      "name": "M&A Summer Internship 2027",
+      "openingDate": "2026-09-07T00:00:00.000Z",
+      "name": "2027 Global Investment Banking - M&A Summer Internship",
       "company": "Baird"
     },
     "iir7vv973l": {
@@ -849,8 +864,8 @@
       "company": "Lincoln International"
     },
     "iumphbd6bl": {
-      "openingDate": null,
-      "name": "2027 Summer Analyst Programme",
+      "openingDate": "2026-09-07T00:00:00.000Z",
+      "name": "2027 Global Capital Markets Summer Analyst Programme",
       "company": "Morgan Stanley"
     },
     "iyocl5x6ux": {
@@ -1233,6 +1248,11 @@
       "name": "Summer Associate 2027",
       "company": "L.E.K. Consulting"
     },
+    "n9uq59ov0s": {
+      "openingDate": "2026-09-07T00:00:00.000Z",
+      "name": "2027 Summer Analyst Programme: Japanese Corporate Banking",
+      "company": "MUFG"
+    },
     "na98tftepc": {
       "openingDate": null,
       "name": "Summer Internship - 2027",
@@ -1538,6 +1558,11 @@
       "name": "2027 Summer Internship",
       "company": "CBRE"
     },
+    "qtdo9uqi9e": {
+      "openingDate": "2026-09-07T00:00:00.000Z",
+      "name": "2027 Investment Banking Summer Analyst Programme",
+      "company": "Morgan Stanley"
+    },
     "quig4d87tl": {
       "openingDate": null,
       "name": "Financial Advisory Internship 2027",
@@ -1619,8 +1644,8 @@
       "company": "Marsh McLennan"
     },
     "ruduif38s1": {
-      "openingDate": null,
-      "name": "2027 Summer Internship Programme",
+      "openingDate": "2026-09-07T00:00:00.000Z",
+      "name": "Global Markets 2027 Summer Internship Programme",
       "company": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale"
     },
     "rvz0tvxdnz": {
@@ -1684,8 +1709,8 @@
       "company": "Lazard"
     },
     "slqbw22lrj": {
-      "openingDate": null,
-      "name": "Summer Internship Programme 2027",
+      "openingDate": "2026-09-07T00:00:00.000Z",
+      "name": "2027 Summer Internship Program",
       "company": "Brevan Howard"
     },
     "solur51h9q": {
@@ -2208,6 +2233,11 @@
       "name": "2027 Quant Researcher Intern",
       "company": "Millennium Management"
     },
+    "xx6gvsqjz8": {
+      "openingDate": "2026-09-07T00:00:00.000Z",
+      "name": "2027 Summer Analyst Programme: Internal Audit",
+      "company": "MUFG"
+    },
     "xyn3tm5ytg": {
       "openingDate": null,
       "name": "Quantitative Analytics Intern",
@@ -2308,6 +2338,11 @@
       "name": "Summer Internship 2027",
       "company": "Equinor"
     },
+    "z7fb3bv8pk": {
+      "openingDate": "2026-09-07T00:00:00.000Z",
+      "name": "2027 Summer Analyst Programme: Capital Markets",
+      "company": "MUFG"
+    },
     "z8fh9wc9uf": {
       "openingDate": "2026-08-17T00:00:00.000Z",
       "name": "M&A Advisory Summer Internship (2027)",
@@ -2364,13 +2399,13 @@
       "company": "Arbuthnot Latham"
     },
     "zvz2wbd9sk": {
-      "openingDate": null,
-      "name": "2027 Summer Analyst",
+      "openingDate": "2026-09-07T00:00:00.000Z",
+      "name": "Investments Summer Analyst Internship 2027",
       "company": "InfraRed Capital Partners"
     },
     "zzm581e112": {
-      "openingDate": null,
-      "name": "MUFG 2027 Summer Internship",
+      "openingDate": "2026-09-07T00:00:00.000Z",
+      "name": "2027 Summer Analyst Programme: Global Corporate Investment Banking",
       "company": "MUFG"
     }
   }
