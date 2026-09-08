@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-08T10:53:13.645904+00:00",
+  "updated": "2026-09-08T16:06:29.683608+00:00",
   "row_count": 490,
-  "raw_bytes": 866381,
+  "raw_bytes": 866577,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -474,8 +474,8 @@
       "company": "Korn Ferry"
     },
     "dz866vnh0h": {
-      "openingDate": null,
-      "name": "2027 - Internship, Quantitative Research/Trading",
+      "openingDate": "2026-09-08T00:00:00.000Z",
+      "name": "2027 - Internship, Quantitative Research",
       "company": "Qube RT"
     },
     "dzr243u4q0": {
