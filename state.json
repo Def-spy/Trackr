@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-08T16:06:29.683608+00:00",
+  "updated": "2026-09-09T10:58:17.089379+00:00",
   "row_count": 490,
-  "raw_bytes": 866577,
+  "raw_bytes": 867134,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -1444,7 +1444,7 @@
       "company": "Oliver Wyman"
     },
     "oxiumx69hf": {
-      "openingDate": null,
+      "openingDate": "2026-09-08T00:00:00.000Z",
       "name": "Investment Analyst Internship 2026-2027",
       "company": "Orbis"
     },
@@ -1739,7 +1739,7 @@
       "company": "WTW"
     },
     "sjqwmquqea": {
-      "openingDate": null,
+      "openingDate": "2026-09-09T00:00:00.000Z",
       "name": "2027 Summer Internship",
       "company": "Lazard"
     },
