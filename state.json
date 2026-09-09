@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-09T10:58:17.089379+00:00",
-  "row_count": 490,
-  "raw_bytes": 867134,
+  "updated": "2026-09-09T16:01:20.887970+00:00",
+  "row_count": 491,
+  "raw_bytes": 869266,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -884,7 +884,7 @@
       "company": "Da Vinci Trading"
     },
     "itufkflzif": {
-      "openingDate": null,
+      "openingDate": "2026-09-09T00:00:00.000Z",
       "name": "UK Summer Internship Programme 2027",
       "company": "Lincoln International"
     },
@@ -1852,6 +1852,11 @@
       "openingDate": null,
       "name": "2027 Summer Internship",
       "company": "Arch Insurance International"
+    },
+    "tjsxna6mcl": {
+      "openingDate": "2026-09-09T00:00:00.000Z",
+      "name": "Financing, Summer Analyst, 2027",
+      "company": "Citi"
     },
     "tk4mzv77bu": {
       "openingDate": null,
