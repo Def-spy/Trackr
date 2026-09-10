@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-09T16:01:20.887970+00:00",
-  "row_count": 491,
-  "raw_bytes": 869266,
+  "updated": "2026-09-10T10:55:03.141641+00:00",
+  "row_count": 493,
+  "raw_bytes": 873638,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -49,8 +49,8 @@
       "company": "Jefferies"
     },
     "36jiyb6sx2": {
-      "openingDate": "2026-06-07T00:00:00.000Z",
-      "name": "Summer Analyst Training Programme",
+      "openingDate": "2026-09-10T00:00:00.000Z",
+      "name": "Investing Simulator Challenge 2026",
       "company": "AmplifyME"
     },
     "3a3cfq50td": {
@@ -92,6 +92,11 @@
       "openingDate": "2026-09-07T00:00:00.000Z",
       "name": "2027 Banking Summer Internship",
       "company": "Mizuho"
+    },
+    "5abmj8esbp": {
+      "openingDate": "2026-09-09T00:00:00.000Z",
+      "name": "2027 Summer Analyst Programme: Structured Trading Group",
+      "company": "MUFG"
     },
     "661ba2dbyd": {
       "openingDate": "2026-09-07T00:00:00.000Z",
@@ -384,8 +389,8 @@
       "company": "Bloomberg"
     },
     "ctm0in068j": {
-      "openingDate": null,
-      "name": "Temasek Summer Associate Programme 2027",
+      "openingDate": "2026-09-09T00:00:00.000Z",
+      "name": "2027 Summer Internship Programme",
       "company": "Temasek"
     },
     "cui3ntc1zz": {
@@ -1782,6 +1787,11 @@
       "openingDate": null,
       "name": "Junior Quantitative Analyst Internship - Summer 2027",
       "company": "BMLL"
+    },
+    "sy130gmptk": {
+      "openingDate": "2026-09-09T00:00:00.000Z",
+      "name": "2027 Summer Analyst Programme: Credit Sales and Trading",
+      "company": "MUFG"
     },
     "sy6ujhpmmm": {
       "openingDate": null,
