@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-10T15:55:43.275183+00:00",
+  "updated": "2026-09-11T10:52:37.692575+00:00",
   "row_count": 493,
-  "raw_bytes": 873638,
+  "raw_bytes": 873889,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -1099,7 +1099,7 @@
       "company": "Audit Scotland"
     },
     "l9cxy1s0p4": {
-      "openingDate": null,
+      "openingDate": "2026-09-11T00:00:00.000Z",
       "name": "Management Consultant Intern - 2027",
       "company": "Rystad Energy"
     },
