@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-11T10:52:37.692575+00:00",
-  "row_count": 493,
-  "raw_bytes": 873889,
+  "updated": "2026-09-11T15:58:36.945453+00:00",
+  "row_count": 498,
+  "raw_bytes": 884534,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -308,10 +308,20 @@
       "name": "Insight Penultimate Year Talent",
       "company": "KPMG"
     },
+    "bxt4jvkxmz": {
+      "openingDate": "2026-09-11T00:00:00.000Z",
+      "name": "2027 Summer Analyst - Real Estate Capital Partners",
+      "company": "RBC Capital Markets"
+    },
     "byxw8zga6c": {
       "openingDate": null,
       "name": "2027 Summer Internship",
       "company": "EY"
+    },
+    "c0sc7rbux1": {
+      "openingDate": "2026-09-11T00:00:00.000Z",
+      "name": "2027 Summer Analyst - Equity Research",
+      "company": "RBC Capital Markets"
     },
     "c0wmvj8qon": {
       "openingDate": null,
@@ -438,6 +448,11 @@
       "name": "Summer Internship 2027",
       "company": "NERA"
     },
+    "dlmdvdl1hi": {
+      "openingDate": "2026-09-11T00:00:00.000Z",
+      "name": "2027 Summer Analyst - Finance",
+      "company": "RBC Capital Markets"
+    },
     "dn9h185llq": {
       "openingDate": null,
       "name": "Quantitative Researcher, Intern (Summer 2028)",
@@ -514,8 +529,8 @@
       "company": "British Land"
     },
     "ea0zz8tiuw": {
-      "openingDate": null,
-      "name": "2027 Summer Analyst",
+      "openingDate": "2026-09-11T00:00:00.000Z",
+      "name": "2027 Summer Analyst - Corporate Banking",
       "company": "RBC Capital Markets"
     },
     "ebleh9fb9z": {
@@ -592,6 +607,11 @@
       "openingDate": null,
       "name": "Intern Analyst",
       "company": "Interpath Advisory"
+    },
+    "f6gsalmo9g": {
+      "openingDate": "2026-09-11T00:00:00.000Z",
+      "name": "2027 Summer Analyst - Global Investment Banking",
+      "company": "RBC Capital Markets"
     },
     "f8uxqtk1jy": {
       "openingDate": null,
@@ -1922,6 +1942,11 @@
       "openingDate": "2026-04-03T00:00:00.000Z",
       "name": "Trading & Research Summer Internship 2027",
       "company": "Capula Investment Management"
+    },
+    "u8ql9ljyct": {
+      "openingDate": "2026-09-11T00:00:00.000Z",
+      "name": "2027 Summer Analyst - Global Markets",
+      "company": "RBC Capital Markets"
     },
     "u90ffc8sht": {
       "openingDate": null,
