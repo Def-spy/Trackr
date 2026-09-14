@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-14T12:13:10.233756+00:00",
-  "row_count": 498,
-  "raw_bytes": 884826,
+  "updated": "2026-09-14T17:49:10.697050+00:00",
+  "row_count": 499,
+  "raw_bytes": 886974,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -127,6 +127,11 @@
       "openingDate": "2026-08-17T00:00:00.000Z",
       "name": "2027 Summer Internship Programme",
       "company": "LionTree"
+    },
+    "8uesjvl1d6": {
+      "openingDate": "2026-09-14T00:00:00.000Z",
+      "name": "Intern - Economics, Disputes and Investigations",
+      "company": "BRG"
     },
     "9yynd1mxmk": {
       "openingDate": "2026-08-31T00:00:00.000Z",
@@ -474,7 +479,7 @@
       "company": "Tencent"
     },
     "du29tzlzou": {
-      "openingDate": null,
+      "openingDate": "2026-09-14T00:00:00.000Z",
       "name": "Summer Internship (2027)",
       "company": "London Stock Exchange Group"
     },
