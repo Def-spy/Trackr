@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-13T15:42:53.309733+00:00",
+  "updated": "2026-09-14T12:13:10.233756+00:00",
   "row_count": 498,
-  "raw_bytes": 884534,
+  "raw_bytes": 884826,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -1349,7 +1349,7 @@
       "company": "Oracle"
     },
     "nm6hs23cj2": {
-      "openingDate": null,
+      "openingDate": "2026-09-10T00:00:00.000Z",
       "name": "Summer Internship 2027",
       "company": "Zurich Insurance"
     },
