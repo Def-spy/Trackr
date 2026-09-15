@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-15T11:22:24.121267+00:00",
-  "row_count": 501,
-  "raw_bytes": 891713,
+  "updated": "2026-09-15T16:24:44.283878+00:00",
+  "row_count": 506,
+  "raw_bytes": 903876,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -47,6 +47,11 @@
       "openingDate": "2026-08-31T00:00:00.000Z",
       "name": "2027 Private Fund Advisory Summer Internship Programme",
       "company": "Jefferies"
+    },
+    "25b9jhq0bx": {
+      "openingDate": "2026-09-15T00:00:00.000Z",
+      "name": "Sustainable Investing Summer Internship 2027",
+      "company": "Fidelity International"
     },
     "36jiyb6sx2": {
       "openingDate": "2026-09-10T00:00:00.000Z",
@@ -103,6 +108,11 @@
       "name": "2027 Summer Analyst Programme: Structured Trading Group",
       "company": "MUFG"
     },
+    "5oh75hwrn3": {
+      "openingDate": "2026-09-15T00:00:00.000Z",
+      "name": "Fixed Income Summer Internship 2027",
+      "company": "Fidelity International"
+    },
     "661ba2dbyd": {
       "openingDate": "2026-09-07T00:00:00.000Z",
       "name": "2027 Internal Audit Summer Analyst Programme",
@@ -127,6 +137,11 @@
       "openingDate": "2026-08-31T00:00:00.000Z",
       "name": " 2027 Commercial & Investment Banking - Research - Summer Internship",
       "company": "J.P. Morgan"
+    },
+    "8l1zjq8arp": {
+      "openingDate": "2026-09-15T00:00:00.000Z",
+      "name": "Equity Research Summer Internship 2027",
+      "company": "Fidelity International"
     },
     "8q64c5c67r": {
       "openingDate": "2026-08-17T00:00:00.000Z",
@@ -798,6 +813,11 @@
       "name": "Intern Programme 2027",
       "company": "Legal & General"
     },
+    "hd6u6iysh4": {
+      "openingDate": "2026-09-15T00:00:00.000Z",
+      "name": "Commercial Banking, Summer Analyst, 2027",
+      "company": "Citi"
+    },
     "hdg6u6fiw5": {
       "openingDate": null,
       "name": "Finance Intern",
@@ -1244,8 +1264,8 @@
       "company": "Tokio Marine Kiln"
     },
     "maqfd0rg5r": {
-      "openingDate": null,
-      "name": "Campus - Internship Programme",
+      "openingDate": "2026-09-14T00:00:00.000Z",
+      "name": "Campus - Internship Programme - 2027",
       "company": "American Express"
     },
     "med04p8tyx": {
@@ -2009,8 +2029,8 @@
       "company": "PKF Smith Cooper"
     },
     "usumgpqdd9": {
-      "openingDate": null,
-      "name": "Summer Internship Programme 2027",
+      "openingDate": "2026-09-15T00:00:00.000Z",
+      "name": "Investment Directing Summer Internship 2027",
       "company": "Fidelity International"
     },
     "uxbflsvgvz": {
@@ -2022,6 +2042,11 @@
       "openingDate": null,
       "name": "2027 Summer Investment Analyst",
       "company": "Arena Investors"
+    },
+    "v3ph64x7pq": {
+      "openingDate": "2026-09-15T00:00:00.000Z",
+      "name": "Multi Asset Summer Internship 2027",
+      "company": "Fidelity International"
     },
     "v6k3opwunl": {
       "openingDate": "2026-08-07T00:00:00.000Z",
