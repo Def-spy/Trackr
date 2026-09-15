@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-14T17:49:10.697050+00:00",
-  "row_count": 499,
-  "raw_bytes": 886974,
+  "updated": "2026-09-15T11:22:24.121267+00:00",
+  "row_count": 501,
+  "raw_bytes": 891713,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -62,6 +62,11 @@
       "openingDate": "2026-08-31T00:00:00.000Z",
       "name": "2027 - Summer Internship (Securitised Products and Private Credit Trading / Structuring)",
       "company": "Nomura"
+    },
+    "3gdseub1z9": {
+      "openingDate": "2026-09-15T00:00:00.000Z",
+      "name": "2027 Summer Internship",
+      "company": "Graham Capital Management"
     },
     "3u0g1uef0a": {
       "openingDate": "2026-08-31T00:00:00.000Z",
@@ -430,7 +435,7 @@
     },
     "d54muvlsjk": {
       "openingDate": "2026-08-24T00:00:00.000Z",
-      "name": "2027 Summer Internship Program",
+      "name": "2027 Summer Internship Program - Non-Investments",
       "company": "BNY Mellon"
     },
     "da9vcxm822": {
@@ -984,8 +989,8 @@
       "company": "BBVA"
     },
     "jpmj3ezzzo": {
-      "openingDate": null,
-      "name": "Howden Re Summer Internship",
+      "openingDate": "2026-09-15T00:00:00.000Z",
+      "name": "Summer Internship 2027",
       "company": "Howden"
     },
     "jvqp1omvr4": {
@@ -1144,8 +1149,8 @@
       "company": "J.P. Morgan"
     },
     "lfepu2ecy4": {
-      "openingDate": null,
-      "name": "Investment Banking Summer Analyst",
+      "openingDate": "2026-09-15T00:00:00.000Z",
+      "name": "Investment Banking Summer Analyst 2027",
       "company": "Howden"
     },
     "lhwn2offnc": {
@@ -1529,7 +1534,7 @@
       "company": "Intriva"
     },
     "ppoepzhhl6": {
-      "openingDate": null,
+      "openingDate": "2026-09-15T00:00:00.000Z",
       "name": "Assessed Internship Programme 2027",
       "company": "Shell"
     },
@@ -2382,6 +2387,11 @@
       "openingDate": null,
       "name": "Blackfinch Summer 2027 Internship Programme",
       "company": "Blackfinch Group"
+    },
+    "ypb2f5egeo": {
+      "openingDate": "2026-09-15T00:00:00.000Z",
+      "name": "2027 Summer Internship Program - Investments",
+      "company": "BNY Mellon"
     },
     "ypjow3u7d7": {
       "openingDate": null,
