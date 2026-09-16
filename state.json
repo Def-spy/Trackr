@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-16T11:06:40.438790+00:00",
+  "updated": "2026-09-16T16:16:05.232518+00:00",
   "row_count": 507,
-  "raw_bytes": 906662,
+  "raw_bytes": 906849,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -2024,7 +2024,7 @@
       "company": "ExodusPoint"
     },
     "upt44nsdkg": {
-      "openingDate": null,
+      "openingDate": "2026-09-16T00:00:00.000Z",
       "name": "Quantitative Research Intern (Summer 2027)",
       "company": "Synthesis"
     },
