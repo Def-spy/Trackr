@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-17T11:15:55.781522+00:00",
-  "row_count": 508,
-  "raw_bytes": 908901,
+  "updated": "2026-09-17T16:22:57.796885+00:00",
+  "row_count": 509,
+  "raw_bytes": 910985,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -1180,7 +1180,7 @@
     },
     "lhwn2offnc": {
       "openingDate": "2026-09-04T00:00:00.000Z",
-      "name": "2027 Summer Internship Programme",
+      "name": "2027 Summer Internship Programme - Trading and Asset Origination",
       "company": "Rothesay"
     },
     "lk5pk8ey90": {
@@ -1317,6 +1317,11 @@
       "openingDate": "2026-09-02T00:00:00.000Z",
       "name": "Quant Research Intern - 2027",
       "company": "Marshall Wace"
+    },
+    "muepsrgqv7": {
+      "openingDate": "2026-09-17T00:00:00.000Z",
+      "name": "2027 Summer Internship Programme - Quantitative Strategist",
+      "company": "Rothesay"
     },
     "mvai4mbaih": {
       "openingDate": "2026-08-19T00:00:00.000Z",
