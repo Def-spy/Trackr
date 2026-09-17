@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-16T16:16:05.232518+00:00",
-  "row_count": 507,
-  "raw_bytes": 906849,
+  "updated": "2026-09-17T11:15:55.781522+00:00",
+  "row_count": 508,
+  "raw_bytes": 908901,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -52,6 +52,11 @@
       "openingDate": "2026-09-15T00:00:00.000Z",
       "name": "Sustainable Investing Summer Internship 2027",
       "company": "Fidelity International"
+    },
+    "2z2l0yyhj5": {
+      "openingDate": "2026-09-17T00:00:00.000Z",
+      "name": "2027 Spring Insight Programme",
+      "company": "Blackstone"
     },
     "36jiyb6sx2": {
       "openingDate": "2026-09-10T00:00:00.000Z",
