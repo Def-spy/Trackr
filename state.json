@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-18T10:49:19.641256+00:00",
-  "row_count": 510,
-  "raw_bytes": 913226,
+  "updated": "2026-09-18T15:56:27.655915+00:00",
+  "row_count": 512,
+  "raw_bytes": 918051,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -342,6 +342,11 @@
       "openingDate": null,
       "name": "Insight Penultimate Year Talent",
       "company": "KPMG"
+    },
+    "btqjof80vq": {
+      "openingDate": "2026-09-18T00:00:00.000Z",
+      "name": "Global Transaction Banking Summer Intern 2027",
+      "company": "CIBC"
     },
     "bxt4jvkxmz": {
       "openingDate": "2026-09-11T00:00:00.000Z",
@@ -1349,7 +1354,7 @@
       "company": "ExodusPoint"
     },
     "n7rgnjtq94": {
-      "openingDate": null,
+      "openingDate": "2026-09-18T00:00:00.000Z",
       "name": "Summer Associate 2027",
       "company": "L.E.K. Consulting"
     },
@@ -1359,7 +1364,7 @@
       "company": "MUFG"
     },
     "na98tftepc": {
-      "openingDate": null,
+      "openingDate": "2026-09-18T00:00:00.000Z",
       "name": "Summer Internship - 2027",
       "company": "Johnston Carmichael"
     },
@@ -1508,6 +1513,11 @@
       "name": "Structured Credit Internship",
       "company": "Munich Re"
     },
+    "ot9g6wi5vq": {
+      "openingDate": "2026-09-18T00:00:00.000Z",
+      "name": "Investment Banking Summer Intern 2027",
+      "company": "CIBC"
+    },
     "ov9rqhadd8": {
       "openingDate": "2026-08-20T00:00:00.000Z",
       "name": "Summer Internship Programme 2027",
@@ -1594,8 +1604,8 @@
       "company": "Liberty Global"
     },
     "pv97z8l0ef": {
-      "openingDate": null,
-      "name": "Summer Intern 2027",
+      "openingDate": "2026-09-18T00:00:00.000Z",
+      "name": "Global Markets Summer Intern 2027",
       "company": "CIBC"
     },
     "pvn1wcbw3l": {
@@ -1764,8 +1774,8 @@
       "company": "Wells Fargo"
     },
     "rwm4p1g45l": {
-      "openingDate": null,
-      "name": "2027 Internship Programme",
+      "openingDate": "2026-09-18T00:00:00.000Z",
+      "name": "Internship Programme - Summer 2027",
       "company": "Isio"
     },
     "s07a4s0rpi": {
