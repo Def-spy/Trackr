@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-17T16:22:57.796885+00:00",
-  "row_count": 509,
-  "raw_bytes": 910985,
+  "updated": "2026-09-18T10:49:19.641256+00:00",
+  "row_count": 510,
+  "raw_bytes": 913226,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -117,6 +117,11 @@
       "openingDate": "2026-09-15T00:00:00.000Z",
       "name": "Fixed Income Summer Internship 2027",
       "company": "Fidelity International"
+    },
+    "5u6mrjk4my": {
+      "openingDate": "2026-09-18T00:00:00.000Z",
+      "name": "Services, Summer Analyst, 2027",
+      "company": "Citi"
     },
     "661ba2dbyd": {
       "openingDate": "2026-09-07T00:00:00.000Z",
@@ -614,8 +619,8 @@
       "company": "Citadel"
     },
     "exvak3czfl": {
-      "openingDate": null,
-      "name": "Vacation Audit - ACA",
+      "openingDate": "2026-09-17T00:00:00.000Z",
+      "name": "Vacation Scheme - July 2027",
       "company": "KPMG"
     },
     "ez4juzixva": {
@@ -864,7 +869,7 @@
       "company": "Canary Wharf Group"
     },
     "i69m4jp4qu": {
-      "openingDate": null,
+      "openingDate": "2026-09-18T00:00:00.000Z",
       "name": "2027 Summer Internship Programme",
       "company": "Panmure Liberum"
     },
