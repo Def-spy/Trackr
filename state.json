@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-19T10:33:31.921558+00:00",
-  "row_count": 512,
-  "raw_bytes": 918078,
+  "updated": "2026-09-19T15:28:20.046188+00:00",
+  "row_count": 513,
+  "raw_bytes": 920298,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -883,6 +883,11 @@
       "name": "2027 Summer Internship",
       "company": "Nationwide"
     },
+    "i9me7pn62l": {
+      "openingDate": "2026-09-18T00:00:00.000Z",
+      "name": "Summer 2027 Asset Management Intern",
+      "company": "Harrison Street"
+    },
     "ibe2ewlars": {
       "openingDate": null,
       "name": "Summer 2027 Intern",
@@ -1489,8 +1494,8 @@
       "company": "Campbell Lutyens"
     },
     "ofqa5h2glb": {
-      "openingDate": null,
-      "name": "Summer 2027 Intern",
+      "openingDate": "2026-09-18T00:00:00.000Z",
+      "name": "Summer 2027 Transactions Intern",
       "company": "Harrison Street"
     },
     "oh7y43zboi": {
