@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-20T15:33:37.934471+00:00",
+  "updated": "2026-09-21T12:21:15.765687+00:00",
   "row_count": 513,
-  "raw_bytes": 920298,
+  "raw_bytes": 920553,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -749,7 +749,7 @@
       "company": "IMC Trading"
     },
     "gc9gpn82zu": {
-      "openingDate": null,
+      "openingDate": "2026-09-21T00:00:00.000Z",
       "name": "Women in Trading Summer Internship Programme",
       "company": "RWE"
     },
