@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-21T17:56:19.229760+00:00",
-  "row_count": 513,
-  "raw_bytes": 920553,
+  "updated": "2026-09-22T11:12:27.103857+00:00",
+  "row_count": 514,
+  "raw_bytes": 922853,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -889,8 +889,8 @@
       "company": "Harrison Street"
     },
     "ibe2ewlars": {
-      "openingDate": null,
-      "name": "Summer 2027 Intern",
+      "openingDate": "2026-09-21T00:00:00.000Z",
+      "name": "2027 Summer Credit Investments Intern",
       "company": "Affinius Capital"
     },
     "ic7l70anjf": {
@@ -1449,8 +1449,8 @@
       "company": "Bain & Company"
     },
     "o4yuh9duy2": {
-      "openingDate": null,
-      "name": "2027 Summer Internship",
+      "openingDate": "2026-09-21T00:00:00.000Z",
+      "name": "Summer 2027 - Investment Internship",
       "company": "Capstone"
     },
     "o75mg75ucl": {
@@ -1597,6 +1597,11 @@
       "openingDate": null,
       "name": "2027 Summer Internship",
       "company": "FTI Consulting"
+    },
+    "pu71fibo0k": {
+      "openingDate": "2026-09-21T00:00:00.000Z",
+      "name": "Corporate Banking Summer Intern 2027",
+      "company": "CIBC"
     },
     "puey98sh56": {
       "openingDate": null,
@@ -2085,7 +2090,7 @@
     },
     "v6k3opwunl": {
       "openingDate": "2026-08-07T00:00:00.000Z",
-      "name": "2026 Summer Analyst",
+      "name": "Summer Analyst",
       "company": "Hines"
     },
     "v9f07euc83": {
