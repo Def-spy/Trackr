@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-22T11:12:27.103857+00:00",
+  "updated": "2026-09-22T16:24:13.627570+00:00",
   "row_count": 514,
-  "raw_bytes": 922853,
+  "raw_bytes": 923457,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -2369,8 +2369,8 @@
       "company": "Dimensional Fund Advisors"
     },
     "xs9vqg4rnp": {
-      "openingDate": null,
-      "name": "Financial Analyst Intern",
+      "openingDate": "2026-09-22T00:00:00.000Z",
+      "name": "Financial Analyst Intern 2027",
       "company": "Amazon"
     },
     "xudruqpl4v": {
