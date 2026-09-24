@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-23T16:14:19.652869+00:00",
-  "row_count": 515,
-  "raw_bytes": 925830,
+  "updated": "2026-09-24T11:21:43.962117+00:00",
+  "row_count": 517,
+  "raw_bytes": 930070,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -102,6 +102,11 @@
       "openingDate": "2026-09-07T00:00:00.000Z",
       "name": "2027 Global Markets Summer Internship",
       "company": "Mizuho"
+    },
+    "4gf2ipqarh": {
+      "openingDate": "2026-09-23T00:00:00.000Z",
+      "name": "2027 Audit Summer Internship Programme",
+      "company": "BDO Global"
     },
     "4kmwvrkm26": {
       "openingDate": "2026-09-07T00:00:00.000Z",
@@ -307,6 +312,11 @@
       "openingDate": null,
       "name": "2027 Summer Internship \u2013 Sales & Trading",
       "company": "Macro Hive"
+    },
+    "bcjx27rls5": {
+      "openingDate": "2026-09-23T00:00:00.000Z",
+      "name": "2027 Tax Summer Internship Programme",
+      "company": "BDO Global"
     },
     "bd2myaekvy": {
       "openingDate": null,
@@ -1979,8 +1989,8 @@
       "company": "Tide Insurance"
     },
     "trx5j32l37": {
-      "openingDate": null,
-      "name": "2027 Summer Internship Programme",
+      "openingDate": "2026-09-23T00:00:00.000Z",
+      "name": "2027 Actuarial Summer Internship Programme",
       "company": "BDO Global"
     },
     "tsta2emevr": {
