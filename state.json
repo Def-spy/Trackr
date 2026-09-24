@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-24T11:21:43.962117+00:00",
-  "row_count": 517,
-  "raw_bytes": 930070,
+  "updated": "2026-09-24T16:36:53.845076+00:00",
+  "row_count": 519,
+  "raw_bytes": 933912,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -337,6 +337,11 @@
       "openingDate": null,
       "name": "Actuarial Intern",
       "company": "Canada Life"
+    },
+    "bnq8sc9w6e": {
+      "openingDate": "2026-09-07T00:00:00.000Z",
+      "name": "2027 Summer Internship Program - Systematic Trading",
+      "company": "Brevan Howard"
     },
     "bs8nsgxgt2": {
       "openingDate": null,
@@ -1218,6 +1223,11 @@
       "name": "Student Analyst \u2013 Investment Technology, Real Estate (Part-time)",
       "company": "Patrizia"
     },
+    "llcta31b4d": {
+      "openingDate": "2026-09-24T00:00:00.000Z",
+      "name": "Global Wealth, Summer Analyst, 2027",
+      "company": "Citi"
+    },
     "lnamuraem2": {
       "openingDate": null,
       "name": "Intern - Campus Summer 2027",
@@ -1854,8 +1864,8 @@
       "company": "Lazard"
     },
     "slqbw22lrj": {
-      "openingDate": "2026-09-07T00:00:00.000Z",
-      "name": "2027 Summer Internship Program",
+      "openingDate": "2026-09-24T00:00:00.000Z",
+      "name": "2027 Summer Internship Program - Trading",
       "company": "Brevan Howard"
     },
     "solur51h9q": {
