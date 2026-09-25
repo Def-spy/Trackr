@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-24T16:36:53.845076+00:00",
+  "updated": "2026-09-25T11:27:16.375487+00:00",
   "row_count": 519,
-  "raw_bytes": 933912,
+  "raw_bytes": 934193,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -2524,7 +2524,7 @@
       "company": "Forvis Mazars"
     },
     "z6pc6xn0el": {
-      "openingDate": null,
+      "openingDate": "2026-09-25T00:00:00.000Z",
       "name": "Summer Internship 2027",
       "company": "Equinor"
     },
