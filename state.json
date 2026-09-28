@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-28T13:17:50.055238+00:00",
-  "row_count": 528,
-  "raw_bytes": 952808,
+  "updated": "2026-09-28T19:19:26.253834+00:00",
+  "row_count": 529,
+  "raw_bytes": 954774,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -177,6 +177,11 @@
       "openingDate": "2026-09-14T00:00:00.000Z",
       "name": "Intern - Economics, Disputes and Investigations",
       "company": "BRG"
+    },
+    "9j4bqbdtxx": {
+      "openingDate": "2026-09-28T00:00:00.000Z",
+      "name": "Trading Summer 2027 Internship",
+      "company": "Man Group"
     },
     "9yynd1mxmk": {
       "openingDate": "2026-08-31T00:00:00.000Z",
