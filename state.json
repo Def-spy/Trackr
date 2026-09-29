@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-28T19:19:26.253834+00:00",
-  "row_count": 529,
-  "raw_bytes": 954774,
+  "updated": "2026-09-29T12:24:36.360651+00:00",
+  "row_count": 532,
+  "raw_bytes": 961283,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -57,6 +57,11 @@
       "openingDate": "2026-09-17T00:00:00.000Z",
       "name": "2027 Spring Insight Programme",
       "company": "Blackstone"
+    },
+    "34e67xrca3": {
+      "openingDate": "2026-09-28T00:00:00.000Z",
+      "name": "2027 Summer Vacation Scheme - Audit & Assurance",
+      "company": "Deloitte"
     },
     "36jiyb6sx2": {
       "openingDate": "2026-09-10T00:00:00.000Z",
@@ -122,6 +127,11 @@
       "openingDate": "2026-09-07T00:00:00.000Z",
       "name": "2027 Banking Summer Internship",
       "company": "Mizuho"
+    },
+    "4ux2aie1t3": {
+      "openingDate": "2026-09-28T00:00:00.000Z",
+      "name": "Investment Risk 2027 Summer Internship",
+      "company": "Man Group"
     },
     "5abmj8esbp": {
       "openingDate": "2026-09-09T00:00:00.000Z",
@@ -728,6 +738,11 @@
       "name": "Underwriting Assistant Intern",
       "company": "Aventum Group"
     },
+    "fgvptgvhtm": {
+      "openingDate": "2026-09-28T00:00:00.000Z",
+      "name": "2027 Summer Vacation Scheme - Tax Consulting",
+      "company": "Deloitte"
+    },
     "fh7e9eki8n": {
       "openingDate": null,
       "name": "Corporate Finance Summer Intern",
@@ -834,8 +849,8 @@
       "company": "The Wall Street Journal"
     },
     "gp1wqbnqpr": {
-      "openingDate": null,
-      "name": "Summer Vacation Scheme",
+      "openingDate": "2026-09-28T00:00:00.000Z",
+      "name": "2027 Summer Vacation Scheme - Actuarial Insurance",
       "company": "Deloitte"
     },
     "gr8jadtco5": {
@@ -2334,7 +2349,7 @@
       "company": "Ares Management"
     },
     "wzjjzgbnxs": {
-      "openingDate": null,
+      "openingDate": "2026-09-29T00:00:00.000Z",
       "name": "Summer Internship 2027",
       "company": "Norges Bank"
     },
