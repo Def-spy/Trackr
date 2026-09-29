@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-29T12:24:36.360651+00:00",
-  "row_count": 532,
-  "raw_bytes": 961283,
+  "updated": "2026-09-29T17:46:36.470909+00:00",
+  "row_count": 534,
+  "raw_bytes": 965737,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -304,8 +304,8 @@
       "company": "J.P. Morgan"
     },
     "axuzqzfnhg": {
-      "openingDate": null,
-      "name": "2027 Summer Internship",
+      "openingDate": "2026-09-29T00:00:00.000Z",
+      "name": "2027 Investment Internship",
       "company": "Verition Fund Management"
     },
     "azkakpq5av": {
@@ -1199,8 +1199,8 @@
       "company": "First Wealth"
     },
     "koc5rdttpk": {
-      "openingDate": null,
-      "name": "2027 Summer Internship",
+      "openingDate": "2026-09-29T00:00:00.000Z",
+      "name": "2027 Equity Research Internship",
       "company": "Lazard Asset Management"
     },
     "krhnmlit2u": {
@@ -1273,6 +1273,11 @@
       "name": "Student Analyst \u2013 Investment Technology, Real Estate (Part-time)",
       "company": "Patrizia"
     },
+    "lkzocwvnfs": {
+      "openingDate": "2026-09-29T00:00:00.000Z",
+      "name": "2027 Sales & Marketing Internship",
+      "company": "Lazard Asset Management"
+    },
     "llcta31b4d": {
       "openingDate": "2026-09-24T00:00:00.000Z",
       "name": "Global Wealth, Summer Analyst, 2027",
@@ -1299,8 +1304,8 @@
       "company": "Chicago Trading Company"
     },
     "lqf7umgi4m": {
-      "openingDate": null,
-      "name": "Quantitative Analyst \u2013 Macro & Commodities (Summer Internship)",
+      "openingDate": "2026-09-29T00:00:00.000Z",
+      "name": "Quantitative Researcher - Quantitative Strategies (Summer Internship)",
       "company": "Balyasny Asset Management"
     },
     "lqy9sbesnd": {
@@ -1427,6 +1432,11 @@
       "openingDate": null,
       "name": "Quant Internship 2027",
       "company": "ExodusPoint"
+    },
+    "n7h54udm76": {
+      "openingDate": "2026-09-29T00:00:00.000Z",
+      "name": "2027 Summer Intern, Corporate Finance",
+      "company": "Longspur Capital"
     },
     "n7rgnjtq94": {
       "openingDate": "2026-09-18T00:00:00.000Z",
