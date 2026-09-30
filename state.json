@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-29T17:46:36.470909+00:00",
-  "row_count": 534,
-  "raw_bytes": 965737,
+  "updated": "2026-09-30T12:09:51.351533+00:00",
+  "row_count": 535,
+  "raw_bytes": 968187,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -214,8 +214,8 @@
       "company": "Redburn"
     },
     "a708ak3kpa": {
-      "openingDate": null,
-      "name": "Summer Internship 2027",
+      "openingDate": "2026-09-30T00:00:00.000Z",
+      "name": "Summer Internship - Audit, Accounting, Tax and Finance",
       "company": "PwC"
     },
     "abmnsbyf12": {
@@ -1927,6 +1927,11 @@
       "openingDate": "2026-09-09T00:00:00.000Z",
       "name": "2027 Summer Internship",
       "company": "Lazard"
+    },
+    "slicg0m3ou": {
+      "openingDate": "2026-09-30T00:00:00.000Z",
+      "name": "Summer Internship - Advisory and Consulting",
+      "company": "PwC"
     },
     "slqbw22lrj": {
       "openingDate": "2026-09-07T00:00:00.000Z",
