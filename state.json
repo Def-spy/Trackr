@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-30T17:41:29.470962+00:00",
-  "row_count": 535,
-  "raw_bytes": 968178,
+  "updated": "2026-10-01T12:43:31.707850+00:00",
+  "row_count": 546,
+  "raw_bytes": 994354,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -32,6 +32,11 @@
       "openingDate": "2026-09-01T00:00:00.000Z",
       "name": "Private Funds Group Summer Internship (2027)",
       "company": "Evercore"
+    },
+    "1m174f8o7e": {
+      "openingDate": "2026-10-01T00:00:00.000Z",
+      "name": "Summer 2027 - Quant Internship",
+      "company": "Capstone"
     },
     "1oy9mpqcc4": {
       "openingDate": "2026-09-01T00:00:00.000Z",
@@ -132,6 +137,11 @@
       "openingDate": "2026-09-28T00:00:00.000Z",
       "name": "Investment Risk 2027 Summer Internship",
       "company": "Man Group"
+    },
+    "4vesjjv86s": {
+      "openingDate": "2026-10-01T00:00:00.000Z",
+      "name": "Investment Specialist - Alternatives - Internship",
+      "company": "HSBC"
     },
     "5abmj8esbp": {
       "openingDate": "2026-09-09T00:00:00.000Z",
@@ -247,6 +257,11 @@
       "openingDate": "2026-09-28T00:00:00.000Z",
       "name": "2027 Summer Internship \u2013 Debt Capital Markets",
       "company": "TD Securities"
+    },
+    "ag5erzw0h0": {
+      "openingDate": "2026-10-01T00:00:00.000Z",
+      "name": "Investment Specialist - Investments - Internship",
+      "company": "HSBC"
     },
     "aiab45uqv1": {
       "openingDate": null,
@@ -903,6 +918,11 @@
       "name": "Finance Intern",
       "company": "Ithaca Energy"
     },
+    "hgbqx4p391": {
+      "openingDate": "2026-10-01T00:00:00.000Z",
+      "name": "Relationship Management - Corporate and Institutional Banking - Internship",
+      "company": "HSBC"
+    },
     "hjccmw5by3": {
       "openingDate": null,
       "name": "2027 UK Internship Program",
@@ -1018,6 +1038,11 @@
       "name": "2027 Summer Internship Program - UK Investing",
       "company": "Sixth Street"
     },
+    "iqbof3vq9i": {
+      "openingDate": "2026-10-01T00:00:00.000Z",
+      "name": "Retail Banking - Internship",
+      "company": "HSBC"
+    },
     "itmon9wb4z": {
       "openingDate": "2026-07-13T00:00:00.000Z",
       "name": "2027 Quant Trading Intern",
@@ -1067,6 +1092,11 @@
       "openingDate": "2026-07-23T00:00:00.000Z",
       "name": "Quant Research Internship",
       "company": "G-Research"
+    },
+    "jixl7oc13x": {
+      "openingDate": "2026-10-01T00:00:00.000Z",
+      "name": "Actuarial Consulting & Analytics: Summer Internship Programme",
+      "company": "Hymans Robertson"
     },
     "jj4ud8v1p5": {
       "openingDate": null,
@@ -1122,6 +1152,11 @@
       "openingDate": "2026-09-28T00:00:00.000Z",
       "name": "2027 Summer Internship \u2013 Corporate Banking",
       "company": "TD Securities"
+    },
+    "jydok8cx6g": {
+      "openingDate": "2026-10-01T00:00:00.000Z",
+      "name": "Transaction Banking - Internship",
+      "company": "HSBC"
     },
     "k1bbbdj4vb": {
       "openingDate": null,
@@ -1438,6 +1473,11 @@
       "name": "2027 Summer Intern, Corporate Finance",
       "company": "Longspur Capital"
     },
+    "n7l7mzq47z": {
+      "openingDate": "2026-10-01T00:00:00.000Z",
+      "name": "Relationship Management - Private Bank - Internship",
+      "company": "HSBC"
+    },
     "n7rgnjtq94": {
       "openingDate": "2026-09-18T00:00:00.000Z",
       "name": "Summer Associate 2027",
@@ -1499,8 +1539,8 @@
       "company": "Charities Aid Foundation"
     },
     "nv019hrcqv": {
-      "openingDate": null,
-      "name": "Pensions Governance & Investment Consulting: Summer Internship",
+      "openingDate": "2026-10-01T00:00:00.000Z",
+      "name": "Pensions Governance & Investment Consulting: Summer Internship Programme",
       "company": "Hymans Robertson"
     },
     "nws0cqrwfc": {
@@ -1684,8 +1724,8 @@
       "company": "CIBC"
     },
     "puey98sh56": {
-      "openingDate": null,
-      "name": "Summer Internship 2026-2027",
+      "openingDate": "2026-10-01T00:00:00.000Z",
+      "name": "Investment Banking - Internship",
       "company": "HSBC"
     },
     "pv2o3mjpz0": {
@@ -1808,6 +1848,11 @@
       "name": "Investment Banking Summer Intern",
       "company": "Stifel"
     },
+    "r15p7xr634": {
+      "openingDate": "2026-10-01T00:00:00.000Z",
+      "name": "Investment Banking - HSBC Infrastructure Finance - Internship",
+      "company": "HSBC"
+    },
     "r24wwydaz1": {
       "openingDate": "2026-08-18T00:00:00.000Z",
       "name": "Quantitative Research Internship",
@@ -1923,6 +1968,11 @@
       "name": "2027 Actuarial Consultant Internship Programme",
       "company": "WTW"
     },
+    "sjdsex6w0x": {
+      "openingDate": "2026-10-01T00:00:00.000Z",
+      "name": "Relationship Management - Commercial Bank - Internship",
+      "company": "HSBC"
+    },
     "sjqwmquqea": {
       "openingDate": "2026-09-09T00:00:00.000Z",
       "name": "2027 Summer Internship",
@@ -1937,6 +1987,11 @@
       "openingDate": "2026-09-07T00:00:00.000Z",
       "name": "2027 Summer Internship Program - Trading",
       "company": "Brevan Howard"
+    },
+    "slzq86w2lr": {
+      "openingDate": "2026-10-01T00:00:00.000Z",
+      "name": "Markets - Sales and Trading - Internship",
+      "company": "HSBC"
     },
     "solur51h9q": {
       "openingDate": null,
