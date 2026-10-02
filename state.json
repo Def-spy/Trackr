@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-01T18:07:00.502984+00:00",
-  "row_count": 546,
-  "raw_bytes": 994355,
+  "updated": "2026-10-02T12:07:58.608671+00:00",
+  "row_count": 548,
+  "raw_bytes": 998102,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -202,6 +202,11 @@
       "openingDate": "2026-09-28T00:00:00.000Z",
       "name": "Trading Summer 2027 Internship",
       "company": "Man Group"
+    },
+    "9xqxksw2z5": {
+      "openingDate": "2026-10-02T00:00:00.000Z",
+      "name": "Intern, Corporate & Investment Banking, International",
+      "company": "Standard Bank"
     },
     "9yynd1mxmk": {
       "openingDate": "2026-08-31T00:00:00.000Z",
@@ -1357,6 +1362,11 @@
       "openingDate": null,
       "name": "D. E. Shaw Investment Management (DESIM) Intern \u2013 Summer 2027",
       "company": "D.E. Shaw"
+    },
+    "lujm1khiiq": {
+      "openingDate": "2026-10-02T00:00:00.000Z",
+      "name": "Equities Analyst Summer Internship Program",
+      "company": "Squarepoint Capital"
     },
     "lyf3wh7xr1": {
       "openingDate": null,
