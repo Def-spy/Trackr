@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-03T15:49:16.882742+00:00",
-  "row_count": 548,
-  "raw_bytes": 998130,
+  "updated": "2026-10-04T11:59:16.423750+00:00",
+  "row_count": 550,
+  "raw_bytes": 1002498,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -1189,7 +1189,7 @@
       "company": "DRW"
     },
     "kaugw1nera": {
-      "openingDate": null,
+      "openingDate": "2026-10-03T00:00:00.000Z",
       "name": "Associate Consultant Summer Internship 2027",
       "company": "OC&C"
     },
@@ -1558,6 +1558,11 @@
       "name": "Sales and Trading, Summer Analyst, 2027",
       "company": "Citi"
     },
+    "nwsjlkokf1": {
+      "openingDate": "2026-10-01T00:00:00.000Z",
+      "name": "Investment Banking, Real Estate, Summer Analyst, 2027",
+      "company": "Citi"
+    },
     "nwym67d2by": {
       "openingDate": null,
       "name": "Investments Internship 2027 - 4 Week Placement",
@@ -1604,8 +1609,8 @@
       "company": "J.P. Morgan"
     },
     "obx1gcj2je": {
-      "openingDate": null,
-      "name": "Summer 2027 Investment Team Intern",
+      "openingDate": "2026-10-03T00:00:00.000Z",
+      "name": "Summer 2027 Intern",
       "company": "Kline Hill Partners"
     },
     "oew6bf55y1": {
@@ -1797,6 +1802,11 @@
       "openingDate": "2026-09-02T00:00:00.000Z",
       "name": "FIG Summer Intern",
       "company": "Alantra"
+    },
+    "qkcvypi1yz": {
+      "openingDate": "2026-10-01T00:00:00.000Z",
+      "name": "Investment Banking - FIG, Summer Analyst, 2027",
+      "company": "Citi"
     },
     "qlvk04173j": {
       "openingDate": "2026-08-31T00:00:00.000Z",
