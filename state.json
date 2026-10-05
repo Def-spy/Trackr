@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-04T16:31:28.819909+00:00",
-  "row_count": 550,
-  "raw_bytes": 1002498,
+  "updated": "2026-10-05T14:00:46.783400+00:00",
+  "row_count": 558,
+  "raw_bytes": 1019444,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -133,6 +133,11 @@
       "name": "2027 Banking Summer Internship",
       "company": "Mizuho"
     },
+    "4lr3wihhaf": {
+      "openingDate": "2026-10-04T00:00:00.000Z",
+      "name": "2027 Risk Analyst (DMFI) Intern",
+      "company": "Schonfeld"
+    },
     "4ux2aie1t3": {
       "openingDate": "2026-09-28T00:00:00.000Z",
       "name": "Investment Risk 2027 Summer Internship",
@@ -167,6 +172,11 @@
       "openingDate": "2026-09-07T00:00:00.000Z",
       "name": "Investment Banking (UK Coverage) Internship Programme",
       "company": "Deutsche Bank"
+    },
+    "7emdlydj15": {
+      "openingDate": "2026-10-05T00:00:00.000Z",
+      "name": "Insurance Consulting - Summer Internship 2027",
+      "company": "LCP"
     },
     "7hcdw0f751": {
       "openingDate": "2026-08-31T00:00:00.000Z",
@@ -269,8 +279,8 @@
       "company": "HSBC"
     },
     "aiab45uqv1": {
-      "openingDate": null,
-      "name": "2027 Summer Intern",
+      "openingDate": "2026-10-04T00:00:00.000Z",
+      "name": "2027 Equity Middle Office Intern",
       "company": "Schonfeld"
     },
     "akn7aqzxhe": {
@@ -549,7 +559,7 @@
       "company": "BNY Mellon"
     },
     "da9vcxm822": {
-      "openingDate": null,
+      "openingDate": "2026-10-05T00:00:00.000Z",
       "name": "Investment Banking Internship 2027",
       "company": "Peel Hunt"
     },
@@ -877,6 +887,11 @@
       "openingDate": "2026-07-06T00:00:00.000Z",
       "name": "Summer Internship",
       "company": "EDF Trading"
+    },
+    "gu5ci71rq9": {
+      "openingDate": "2026-10-04T00:00:00.000Z",
+      "name": "2027 DMFI Quant Research Intern",
+      "company": "Schonfeld"
     },
     "gzbfggud2m": {
       "openingDate": null,
@@ -1292,6 +1307,11 @@
       "openingDate": "2026-08-31T00:00:00.000Z",
       "name": "2027 Global Corporate Banking Analyst Program - Summer Internship",
       "company": "J.P. Morgan"
+    },
+    "lezvygxixc": {
+      "openingDate": "2026-10-05T00:00:00.000Z",
+      "name": "Investment Banking Summer Intern 2027 - M&A",
+      "company": "Equiteq"
     },
     "lfepu2ecy4": {
       "openingDate": "2026-09-15T00:00:00.000Z",
@@ -1803,6 +1823,11 @@
       "name": "FIG Summer Intern",
       "company": "Alantra"
     },
+    "qh022ny0cz": {
+      "openingDate": "2026-10-05T00:00:00.000Z",
+      "name": "nvestment Consulting - Summer Internship 2027",
+      "company": "LCP"
+    },
     "qkcvypi1yz": {
       "openingDate": "2026-10-01T00:00:00.000Z",
       "name": "Investment Banking - FIG, Summer Analyst, 2027",
@@ -1927,6 +1952,11 @@
       "openingDate": null,
       "name": "Summer Internship 2027",
       "company": "Marsh McLennan"
+    },
+    "rsz7tz9ngy": {
+      "openingDate": "2026-10-05T00:00:00.000Z",
+      "name": "Pensions Management Consulting - Summer Internship 2027",
+      "company": "LCP"
     },
     "ruduif38s1": {
       "openingDate": "2026-09-07T00:00:00.000Z",
@@ -2129,7 +2159,7 @@
       "company": "Citi"
     },
     "tk4mzv77bu": {
-      "openingDate": null,
+      "openingDate": "2026-10-05T00:00:00.000Z",
       "name": "Summer Internship 2027",
       "company": "Investec"
     },
@@ -2192,6 +2222,11 @@
       "openingDate": null,
       "name": "Finance Summer Internship",
       "company": "Centrica"
+    },
+    "u93cajpqae": {
+      "openingDate": "2026-10-05T00:00:00.000Z",
+      "name": "Pensions Actuarial Consulting - Summer Internship 2027",
+      "company": "LCP"
     },
     "ua2s6zlfxd": {
       "openingDate": null,
@@ -2303,6 +2338,11 @@
       "name": "2027 Advisory Summer Analyst Programme",
       "company": "Perella Weinberg Partners"
     },
+    "vjg4dlim8o": {
+      "openingDate": "2026-10-05T00:00:00.000Z",
+      "name": "DC Investment & Governance - Summer Internship 2027",
+      "company": "LCP"
+    },
     "vmlfofxn5q": {
       "openingDate": "2026-08-31T00:00:00.000Z",
       "name": "2027 Quant Masters Summer Programme",
@@ -2404,8 +2444,8 @@
       "company": "Da Vinci Trading"
     },
     "wdodi1co85": {
-      "openingDate": null,
-      "name": "Consulting - Summer Internship 2027",
+      "openingDate": "2026-10-05T00:00:00.000Z",
+      "name": "Energy Power Consulting - Summer Internship 2027",
       "company": "LCP"
     },
     "we02sc45ng": {
@@ -2494,8 +2534,8 @@
       "company": "Compass Lexecon"
     },
     "xfyqgkgvqu": {
-      "openingDate": null,
-      "name": "2027 UK Summer Internship",
+      "openingDate": "2026-10-05T00:00:00.000Z",
+      "name": "2027 Summer Internship",
       "company": "Scotiabank"
     },
     "xiil4fa6jd": {
