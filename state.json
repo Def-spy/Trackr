@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-06T13:00:44.278570+00:00",
-  "row_count": 561,
-  "raw_bytes": 1026177,
+  "updated": "2026-10-06T18:00:03.825070+00:00",
+  "row_count": 565,
+  "raw_bytes": 1034243,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -52,6 +52,11 @@
       "openingDate": "2026-08-31T00:00:00.000Z",
       "name": "2027 Private Fund Advisory Summer Internship Programme",
       "company": "Jefferies"
+    },
+    "248wrwzguu": {
+      "openingDate": "2026-10-06T00:00:00.000Z",
+      "name": "2027 Summer Internship",
+      "company": "Royal London"
     },
     "25b9jhq0bx": {
       "openingDate": "2026-09-15T00:00:00.000Z",
@@ -207,6 +212,11 @@
       "openingDate": "2026-09-14T00:00:00.000Z",
       "name": "Intern - Economics, Disputes and Investigations",
       "company": "BRG"
+    },
+    "9bsigfoqgo": {
+      "openingDate": "2026-10-06T00:00:00.000Z",
+      "name": "Corporate Banking Internship Programme 2027",
+      "company": "Deutsche Bank"
     },
     "9j4bqbdtxx": {
       "openingDate": "2026-09-28T00:00:00.000Z",
@@ -2423,6 +2433,11 @@
       "name": "2027 Investment Banking Summer Internship Programme",
       "company": "Jefferies"
     },
+    "w3d9mf6zvn": {
+      "openingDate": "2026-10-06T00:00:00.000Z",
+      "name": "Management Consulting Internship Programme 2027",
+      "company": "Deutsche Bank"
+    },
     "w422v28305": {
       "openingDate": null,
       "name": "Risk - Summer Intern 2027",
@@ -2807,6 +2822,11 @@
       "openingDate": "2026-09-07T00:00:00.000Z",
       "name": "2027 Summer Analyst Programme: Global Corporate Investment Banking",
       "company": "MUFG"
+    },
+    "zzvg0o6nid": {
+      "openingDate": "2026-10-06T00:00:00.000Z",
+      "name": "Sales & Marketing Summer Internship 2027",
+      "company": "Fidelity International"
     }
   }
 }
