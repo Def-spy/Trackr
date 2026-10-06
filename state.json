@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-05T14:00:46.783400+00:00",
-  "row_count": 558,
-  "raw_bytes": 1019444,
+  "updated": "2026-10-06T13:00:44.278570+00:00",
+  "row_count": 561,
+  "raw_bytes": 1026177,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -364,8 +364,8 @@
       "company": "NatWest Markets"
     },
     "b6p937hxf9": {
-      "openingDate": null,
-      "name": "Investment Analyst Intern",
+      "openingDate": "2026-10-06T00:00:00.000Z",
+      "name": "PGIM Institutional Client Group | 2027 Summer Internship",
       "company": "PGIM"
     },
     "b9tvd29igh": {
@@ -1027,6 +1027,11 @@
       "openingDate": null,
       "name": "2027 Underwriting Internship Programme Scheme",
       "company": "Everest"
+    },
+    "in27izy2bn": {
+      "openingDate": "2026-10-05T00:00:00.000Z",
+      "name": "2027 Asset Management Summer Internship Programme",
+      "company": "Jefferies"
     },
     "inqmkxkwxu": {
       "openingDate": null,
@@ -2278,6 +2283,11 @@
       "name": "Investment Directing Summer Internship 2027",
       "company": "Fidelity International"
     },
+    "uw07rurgje": {
+      "openingDate": "2026-10-06T00:00:00.000Z",
+      "name": "Mergers & Acquisitions Intern",
+      "company": "Kroll"
+    },
     "uxbflsvgvz": {
       "openingDate": null,
       "name": "2027 Investment Banking Summer Analyst Program",
@@ -2662,6 +2672,11 @@
       "openingDate": null,
       "name": "Actuarial Internship",
       "company": "HDI Global"
+    },
+    "ymg4ypar8f": {
+      "openingDate": "2026-10-06T00:00:00.000Z",
+      "name": "Intern, Real Estate Investments",
+      "company": "Oxford Properties Group"
     },
     "ymu5cwti74": {
       "openingDate": null,
