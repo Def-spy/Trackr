@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-06T18:00:03.825070+00:00",
-  "row_count": 565,
-  "raw_bytes": 1034243,
+  "updated": "2026-10-07T12:54:59.585954+00:00",
+  "row_count": 569,
+  "raw_bytes": 1044263,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -113,6 +113,11 @@
       "name": "2027 Summer Internship - Investment Banking",
       "company": "TD Securities"
     },
+    "4am31chlk8": {
+      "openingDate": "2026-10-06T00:00:00.000Z",
+      "name": "2027 Non-Financial Risk Summer Analyst Programme",
+      "company": "Morgan Stanley"
+    },
     "4b5c8ysadv": {
       "openingDate": "2026-09-01T00:00:00.000Z",
       "name": "2027 Macquarie Capital Summer Internship Programme",
@@ -167,6 +172,11 @@
       "openingDate": "2026-09-18T00:00:00.000Z",
       "name": "Services, Summer Analyst, 2027",
       "company": "Citi"
+    },
+    "63al2mhfvv": {
+      "openingDate": "2026-10-06T00:00:00.000Z",
+      "name": "2027 Global Sales & Marketing Summer Analyst Programme",
+      "company": "Morgan Stanley"
     },
     "661ba2dbyd": {
       "openingDate": "2026-09-07T00:00:00.000Z",
@@ -573,6 +583,11 @@
       "name": "Investment Banking Internship 2027",
       "company": "Peel Hunt"
     },
+    "db6y4foxhc": {
+      "openingDate": "2026-10-06T00:00:00.000Z",
+      "name": "2027 Operations Summer Analyst Programme",
+      "company": "Morgan Stanley"
+    },
     "dcglidzkau": {
       "openingDate": null,
       "name": "Summer Placement 2027",
@@ -863,6 +878,11 @@
       "name": "Summer Intern 2027",
       "company": "Hayfin Capital Management"
     },
+    "ge9h7i6nnq": {
+      "openingDate": "2026-10-06T00:00:00.000Z",
+      "name": "2027 Finance Summer Analyst Programme",
+      "company": "Morgan Stanley"
+    },
     "gfgk161pkv": {
       "openingDate": null,
       "name": "Investments Summer Analyst 2027",
@@ -1069,7 +1089,7 @@
       "company": "Visa"
     },
     "iphvx1ttlp": {
-      "openingDate": null,
+      "openingDate": "2026-10-06T00:00:00.000Z",
       "name": "2027 Summer Internship Program - UK Investing",
       "company": "Sixth Street"
     },
@@ -1479,8 +1499,8 @@
       "company": "Fidelity Investments"
     },
     "mr8evyv5i6": {
-      "openingDate": null,
-      "name": "Summer Internship Programme 2027",
+      "openingDate": "2026-10-07T00:00:00.000Z",
+      "name": "2027 Private Banking - Summer Internship",
       "company": "Weatherbys Private Bank"
     },
     "mrj7k0ivdd": {
