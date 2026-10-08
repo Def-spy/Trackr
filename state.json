@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-07T18:31:09.897399+00:00",
-  "row_count": 569,
-  "raw_bytes": 1044263,
+  "updated": "2026-10-08T13:03:26.989784+00:00",
+  "row_count": 571,
+  "raw_bytes": 1048220,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -643,6 +643,11 @@
       "name": "EMEA Banking Summer Analyst",
       "company": "Wells Fargo"
     },
+    "dxcyzc4uhi": {
+      "openingDate": "2026-10-08T00:00:00.000Z",
+      "name": "2027 Platform Internship, Non-Investment",
+      "company": "Verition Fund Management"
+    },
     "dyyl9ib68p": {
       "openingDate": null,
       "name": "UK Summer Internship",
@@ -962,6 +967,11 @@
       "openingDate": "2026-09-15T00:00:00.000Z",
       "name": "Commercial Banking, Summer Analyst, 2027",
       "company": "Citi"
+    },
+    "hddgjldx6b": {
+      "openingDate": "2026-10-08T00:00:00.000Z",
+      "name": "Summer 2027 Investor Solutions Group Intern",
+      "company": "Harrison Street"
     },
     "hdg6u6fiw5": {
       "openingDate": null,
@@ -2534,7 +2544,7 @@
       "company": "Aegon"
     },
     "x3ops1ftx9": {
-      "openingDate": null,
+      "openingDate": "2026-10-08T00:00:00.000Z",
       "name": "Summer Trading Internship",
       "company": "Flow Traders"
     },
@@ -2799,8 +2809,8 @@
       "company": "Santander"
     },
     "zld4199meu": {
-      "openingDate": null,
-      "name": "2027 Investment Banking Summer Analyst",
+      "openingDate": "2026-10-08T00:00:00.000Z",
+      "name": "2027 Investment Banking Summer Intern",
       "company": "BMO Capital Markets"
     },
     "zm17cu7kxl": {
