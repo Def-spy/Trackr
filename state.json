@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-08T18:30:25.812793+00:00",
-  "row_count": 572,
-  "raw_bytes": 1049977,
+  "updated": "2026-10-09T12:50:01.390601+00:00",
+  "row_count": 575,
+  "raw_bytes": 1056384,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -707,6 +707,11 @@
       "openingDate": null,
       "name": "UK Summer Internship 2027",
       "company": "Proxima"
+    },
+    "eqd430ze34": {
+      "openingDate": "2026-10-09T00:00:00.000Z",
+      "name": "UK Analyst Program 2028",
+      "company": "Ccaventus"
     },
     "ergfokxpj2": {
       "openingDate": "2026-08-31T00:00:00.000Z",
@@ -2339,9 +2344,9 @@
       "company": "Leerink Partners"
     },
     "v2cq2pq6l4": {
-      "openingDate": null,
+      "openingDate": "2026-10-09T00:00:00.000Z",
       "name": "2027 Summer Investment Analyst",
-      "company": "Arena Investors"
+      "company": "Ccaventus"
     },
     "v3ph64x7pq": {
       "openingDate": "2026-09-15T00:00:00.000Z",
@@ -2433,6 +2438,11 @@
       "name": "Trader Summer Internship 2027",
       "company": "Maven Securities"
     },
+    "vsd591zbt1": {
+      "openingDate": "2026-10-08T00:00:00.000Z",
+      "name": "M&A Deal Team Intern \u2013 Summer 2027",
+      "company": "Collingwood"
+    },
     "vt4roqzr11": {
       "openingDate": null,
       "name": "Capital Markets Intern",
@@ -2479,9 +2489,14 @@
       "company": "XTX Markets"
     },
     "w51gh5yp3d": {
-      "openingDate": null,
-      "name": "Lendable",
+      "openingDate": "2026-09-01T00:00:00.000Z",
+      "name": "Credit Analyst Intern (June 2027)",
       "company": "Lendable"
+    },
+    "w52dg1zyt0": {
+      "openingDate": "2026-10-08T00:00:00.000Z",
+      "name": "2027 Investment Management Summer Analyst Programme - Fixed Income",
+      "company": "Morgan Stanley"
     },
     "w9j527id9r": {
       "openingDate": "2026-09-28T00:00:00.000Z",
