@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-10T12:07:59.917795+00:00",
+  "updated": "2026-10-10T17:02:05.378620+00:00",
   "row_count": 575,
-  "raw_bytes": 1056384,
+  "raw_bytes": 1056630,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -2109,8 +2109,8 @@
       "company": "Baringa"
     },
     "sqaon0ffm5": {
-      "openingDate": null,
-      "name": "Business & Capital Advisory (Intern)",
+      "openingDate": "2026-10-10T00:00:00.000Z",
+      "name": "Restructuring Advisory Intern",
       "company": "KR8 Advisory"
     },
     "sr9fyjnaeb": {
