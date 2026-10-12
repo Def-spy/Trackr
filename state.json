@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-11T17:25:24.196927+00:00",
+  "updated": "2026-10-12T14:49:58.367075+00:00",
   "row_count": 575,
-  "raw_bytes": 1056602,
+  "raw_bytes": 1056655,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -75,7 +75,7 @@
     },
     "36jiyb6sx2": {
       "openingDate": "2026-09-10T00:00:00.000Z",
-      "name": "Investing Simulator Challenge 2026",
+      "name": "Market & Banking Finance Accelerator",
       "company": "AmplifyME"
     },
     "3a3cfq50td": {
@@ -1864,8 +1864,8 @@
       "company": "Aluna Partners"
     },
     "qenvwl9xvn": {
-      "openingDate": null,
-      "name": "Summer Internship - Trading & Technology",
+      "openingDate": "2026-10-12T00:00:00.000Z",
+      "name": "Mako Summer Internship \u2013 Trading",
       "company": "Mako Trading"
     },
     "qf1fmy9uio": {
