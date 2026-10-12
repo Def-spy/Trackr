@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-12T14:49:58.367075+00:00",
-  "row_count": 575,
-  "raw_bytes": 1056655,
+  "updated": "2026-10-12T20:58:38.520990+00:00",
+  "row_count": 578,
+  "raw_bytes": 1063840,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -177,6 +177,11 @@
       "openingDate": "2026-09-18T00:00:00.000Z",
       "name": "Services, Summer Analyst, 2027",
       "company": "Citi"
+    },
+    "5xehmwogqj": {
+      "openingDate": "2026-10-12T00:00:00.000Z",
+      "name": "2027 Summer Analyst - Quantitative Analyst",
+      "company": "RBC Capital Markets"
     },
     "63al2mhfvv": {
       "openingDate": "2026-10-06T00:00:00.000Z",
@@ -1623,6 +1628,11 @@
       "name": "Summer 2027 Internship",
       "company": "Charities Aid Foundation"
     },
+    "nt4r2yrqtu": {
+      "openingDate": "2026-10-12T00:00:00.000Z",
+      "name": "2027 Summer Analyst Programme - Office of the COO",
+      "company": "Morgan Stanley"
+    },
     "nv019hrcqv": {
       "openingDate": "2026-10-01T00:00:00.000Z",
       "name": "Pensions Governance & Investment Consulting: Summer Internship Programme",
@@ -2223,6 +2233,11 @@
       "name": "2027 Internship - Quantitative Trading",
       "company": "Virtu Financial"
     },
+    "tos8xqhhjo": {
+      "openingDate": "2026-10-12T00:00:00.000Z",
+      "name": "2027 Summer Analyst Programme - Real Assets",
+      "company": "Morgan Stanley"
+    },
     "tq7f2zzimo": {
       "openingDate": null,
       "name": "2027 Summer Placement",
@@ -2495,7 +2510,7 @@
     },
     "w52dg1zyt0": {
       "openingDate": "2026-10-08T00:00:00.000Z",
-      "name": "2027 Investment Management Summer Analyst Programme - Fixed Income",
+      "name": "2027 Summer Analyst Programme - Fixed Income",
       "company": "Morgan Stanley"
     },
     "w9j527id9r": {
