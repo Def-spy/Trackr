@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-13T13:49:47.759099+00:00",
+  "updated": "2026-10-13T18:57:08.901116+00:00",
   "row_count": 578,
-  "raw_bytes": 1063840,
+  "raw_bytes": 1064002,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -274,8 +274,8 @@
       "company": "PwC"
     },
     "abmnsbyf12": {
-      "openingDate": null,
-      "name": "Intern",
+      "openingDate": "2026-10-13T00:00:00.000Z",
+      "name": "Investment Banking Summer Internship 2027",
       "company": "National Bank of Canada"
     },
     "acjoeaxfvp": {
