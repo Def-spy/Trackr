@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-13T18:57:08.901116+00:00",
-  "row_count": 578,
-  "raw_bytes": 1064002,
+  "updated": "2026-10-14T11:27:27.279017+00:00",
+  "row_count": 581,
+  "raw_bytes": 1069912,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -207,6 +207,11 @@
       "openingDate": "2026-08-31T00:00:00.000Z",
       "name": "2027 - Global Markets (Sales, Trading, Structuring & Research) - Summer Internship",
       "company": "Nomura"
+    },
+    "7qapdb0yyc": {
+      "openingDate": "2026-10-14T00:00:00.000Z",
+      "name": "Summer internship - Finance & Risk",
+      "company": "bp"
     },
     "8243194by3": {
       "openingDate": "2026-09-01T00:00:00.000Z",
@@ -479,8 +484,8 @@
       "company": "Rede Partners"
     },
     "c10zc6rp2t": {
-      "openingDate": null,
-      "name": "Summer Internship - Trading & Shipping",
+      "openingDate": "2026-10-14T00:00:00.000Z",
+      "name": "Summer Internship - Supply, Trading & Shipping",
       "company": "bp"
     },
     "c2zevtekgi": {
@@ -617,6 +622,11 @@
       "openingDate": "2026-09-11T00:00:00.000Z",
       "name": "2027 Summer Analyst - Finance",
       "company": "RBC Capital Markets"
+    },
+    "dmldv50lus": {
+      "openingDate": "2026-10-14T00:00:00.000Z",
+      "name": "Summer Internship - Core Finance",
+      "company": "bp"
     },
     "dn9h185llq": {
       "openingDate": null,
@@ -1279,8 +1289,8 @@
       "company": "GIC"
     },
     "ke74fora4p": {
-      "openingDate": null,
-      "name": "2027 Internship Opportunities",
+      "openingDate": "2026-10-13T00:00:00.000Z",
+      "name": "Intern Programme 2027",
       "company": "AAB Group"
     },
     "kgaz7t35du": {
@@ -2093,6 +2103,11 @@
       "name": "2027 Summer Internship",
       "company": "Lazard"
     },
+    "skjb6rl2at": {
+      "openingDate": "2026-10-14T00:00:00.000Z",
+      "name": "Quant Research Intern (Summer 2027 \u2013 London)",
+      "company": "Jain Global"
+    },
     "slicg0m3ou": {
       "openingDate": "2026-09-30T00:00:00.000Z",
       "name": "Summer Internship - Advisory and Consulting",
@@ -2424,8 +2439,8 @@
       "company": "Jefferies"
     },
     "vmoxgl1hqi": {
-      "openingDate": null,
-      "name": "Hamilton Insurance Summer Internship",
+      "openingDate": "2026-10-14T00:00:00.000Z",
+      "name": "Summer Internship",
       "company": "Hamilton Insurance Group"
     },
     "vnejx51j82": {
