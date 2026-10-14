@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-14T11:27:27.279017+00:00",
+  "updated": "2026-10-14T16:40:12.528811+00:00",
   "row_count": 581,
-  "raw_bytes": 1069912,
+  "raw_bytes": 1069861,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -210,7 +210,7 @@
     },
     "7qapdb0yyc": {
       "openingDate": "2026-10-14T00:00:00.000Z",
-      "name": "Summer internship - Finance & Risk",
+      "name": "Summer Internship - Finance & Risk",
       "company": "bp"
     },
     "8243194by3": {
@@ -1007,11 +1007,6 @@
       "openingDate": "2026-10-01T00:00:00.000Z",
       "name": "Relationship Management - Corporate and Institutional Banking - Internship",
       "company": "HSBC"
-    },
-    "hjccmw5by3": {
-      "openingDate": null,
-      "name": "2027 UK Internship Program",
-      "company": "BTIG"
     },
     "hjv32e8dau": {
       "openingDate": "2026-08-05T00:00:00.000Z",
@@ -1902,6 +1897,11 @@
       "openingDate": "2026-10-05T00:00:00.000Z",
       "name": "nvestment Consulting - Summer Internship 2027",
       "company": "LCP"
+    },
+    "qhsb7gxwhz": {
+      "openingDate": "2026-10-14T00:00:00.000Z",
+      "name": "2027 Summer Internship Program",
+      "company": "BTIG"
     },
     "qkcvypi1yz": {
       "openingDate": "2026-10-01T00:00:00.000Z",
