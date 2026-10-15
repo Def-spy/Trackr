@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-14T16:40:12.528811+00:00",
-  "row_count": 581,
-  "raw_bytes": 1069861,
+  "updated": "2026-10-15T11:03:57.934065+00:00",
+  "row_count": 584,
+  "raw_bytes": 1076357,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -469,8 +469,8 @@
       "company": "RBC Capital Markets"
     },
     "byxw8zga6c": {
-      "openingDate": null,
-      "name": "2027 Summer Internship",
+      "openingDate": "2026-10-15T00:00:00.000Z",
+      "name": "Audit Summer Internship 2027",
       "company": "EY"
     },
     "c0sc7rbux1": {
@@ -524,7 +524,7 @@
       "company": "Future Planet Capital"
     },
     "cdg1tg94ta": {
-      "openingDate": null,
+      "openingDate": "2026-10-15T00:00:00.000Z",
       "name": "Summer Internship 2027",
       "company": "EY-Parthenon"
     },
@@ -1019,7 +1019,7 @@
       "company": "UBS"
     },
     "hu647l11hv": {
-      "openingDate": null,
+      "openingDate": "2026-10-14T00:00:00.000Z",
       "name": "2027 Private Equity Summer Analyst",
       "company": "StepStone Group"
     },
@@ -1548,6 +1548,11 @@
       "name": "2027 Summer Analyst Programme",
       "company": "Rothschild & Co."
     },
+    "mxqwwh2bch": {
+      "openingDate": "2026-10-15T00:00:00.000Z",
+      "name": "Tax Summer Internship 2027",
+      "company": "EY"
+    },
     "my8ncwbg9k": {
       "openingDate": null,
       "name": "Summer Internship Program 2027",
@@ -1982,6 +1987,11 @@
       "openingDate": null,
       "name": "2028 Trading and Research Summer Internship",
       "company": "Capula Investment Management"
+    },
+    "r3vme7ip84": {
+      "openingDate": "2026-10-15T00:00:00.000Z",
+      "name": "Consulting Summer Internship 2027",
+      "company": "EY"
     },
     "r5noscwdgi": {
       "openingDate": null,
@@ -2457,6 +2467,11 @@
       "openingDate": null,
       "name": "Investment Summer Analyst (Intern)",
       "company": "Cambridge Associates"
+    },
+    "vqgyeeo1db": {
+      "openingDate": "2026-10-15T00:00:00.000Z",
+      "name": "Trackr Academy - Autumn 2026",
+      "company": "Trackr"
     },
     "vrb6e3j24q": {
       "openingDate": null,
