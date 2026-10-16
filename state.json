@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-16T10:59:27.033775+00:00",
-  "row_count": 584,
-  "raw_bytes": 1076379,
+  "updated": "2026-10-16T16:10:50.291847+00:00",
+  "row_count": 585,
+  "raw_bytes": 1078380,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -247,6 +247,11 @@
       "openingDate": "2026-09-28T00:00:00.000Z",
       "name": "Trading Summer 2027 Internship",
       "company": "Man Group"
+    },
+    "9k018mi06l": {
+      "openingDate": "2026-10-16T00:00:00.000Z",
+      "name": "Summer 2027: Investment Team Summer Analyst",
+      "company": "Orchard Global"
     },
     "9xqxksw2z5": {
       "openingDate": "2026-10-02T00:00:00.000Z",
@@ -2224,7 +2229,7 @@
       "company": "Caledonia Investments"
     },
     "tgf6wwrdfj": {
-      "openingDate": null,
+      "openingDate": "2026-10-16T00:00:00.000Z",
       "name": "2027 Summer Internships",
       "company": "DWS"
     },
