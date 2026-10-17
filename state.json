@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-16T16:10:50.291847+00:00",
-  "row_count": 585,
-  "raw_bytes": 1078380,
+  "updated": "2026-10-17T10:20:53.572458+00:00",
+  "row_count": 586,
+  "raw_bytes": 1080396,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -804,8 +804,8 @@
       "company": "RBC Capital Markets"
     },
     "f8uxqtk1jy": {
-      "openingDate": null,
-      "name": "Equity Analyst Internship, Asset Management",
+      "openingDate": "2026-10-16T00:00:00.000Z",
+      "name": "Credit Analyst Internship Asset Management",
       "company": "Atlanta Wealth"
     },
     "f9z38d0inb": {
@@ -2397,6 +2397,11 @@
       "openingDate": "2026-09-15T00:00:00.000Z",
       "name": "Multi Asset Summer Internship 2027",
       "company": "Fidelity International"
+    },
+    "v4sqj5xuxw": {
+      "openingDate": "2026-10-16T00:00:00.000Z",
+      "name": "Internship - Credit Analyst - Hedge Fund",
+      "company": "Atlanta Wealth"
     },
     "v6k3opwunl": {
       "openingDate": "2026-08-07T00:00:00.000Z",
