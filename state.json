@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-19T12:34:35.351712+00:00",
-  "row_count": 586,
-  "raw_bytes": 1080058,
+  "updated": "2026-10-19T18:24:28.375251+00:00",
+  "row_count": 588,
+  "raw_bytes": 1084202,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -162,6 +162,11 @@
       "openingDate": "2026-10-01T00:00:00.000Z",
       "name": "Investment Specialist - Alternatives - Internship",
       "company": "HSBC"
+    },
+    "4xw0znsp43": {
+      "openingDate": "2026-10-19T00:00:00.000Z",
+      "name": "Strategy Insights & Planning Associate Intern - London 2027",
+      "company": "ZS"
     },
     "5abmj8esbp": {
       "openingDate": "2026-09-09T00:00:00.000Z",
@@ -588,6 +593,11 @@
       "name": "Internship Programme (Summer 2027)",
       "company": "Grant Thornton"
     },
+    "czd9z3et76": {
+      "openingDate": "2026-10-19T00:00:00.000Z",
+      "name": "Investment Banking - CEE, Summer Analyst, 2027",
+      "company": "Citi"
+    },
     "d52bzj049j": {
       "openingDate": "2026-09-28T00:00:00.000Z",
       "name": "NatWest Markets - Quantitative Analytics - Internship",
@@ -806,7 +816,7 @@
     "f8uxqtk1jy": {
       "openingDate": "2026-10-16T00:00:00.000Z",
       "name": "Credit Analyst Internship Asset Management",
-      "company": "Atlanta Wealth"
+      "company": "Atlana Wealth"
     },
     "f9z38d0inb": {
       "openingDate": "2026-09-01T00:00:00.000Z",
@@ -960,7 +970,7 @@
     },
     "gzbfggud2m": {
       "openingDate": null,
-      "name": "Strategy Insights & Planning Associate - Intern",
+      "name": "Strategy Insights & Planning Consultant Intern 2027",
       "company": "ZS"
     },
     "h09z175evi": {
@@ -2401,7 +2411,7 @@
     "v4sqj5xuxw": {
       "openingDate": "2026-10-16T00:00:00.000Z",
       "name": "Internship - Credit Analyst - Hedge Fund",
-      "company": "Atlanta Wealth"
+      "company": "Atlana Wealth"
     },
     "v6k3opwunl": {
       "openingDate": "2026-08-07T00:00:00.000Z",
