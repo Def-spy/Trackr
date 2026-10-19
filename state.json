@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-18T15:28:02.744872+00:00",
+  "updated": "2026-10-19T12:34:35.351712+00:00",
   "row_count": 586,
-  "raw_bytes": 1080442,
+  "raw_bytes": 1080058,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -2224,7 +2224,7 @@
       "company": "Copper.co"
     },
     "teth37ar9i": {
-      "openingDate": null,
+      "openingDate": "2026-10-19T00:00:00.000Z",
       "name": "2027 Summer Internship",
       "company": "Caledonia Investments"
     },
