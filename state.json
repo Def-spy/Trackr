@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-19T18:24:28.375251+00:00",
-  "row_count": 588,
-  "raw_bytes": 1084202,
+  "updated": "2026-10-20T11:08:21.009687+00:00",
+  "row_count": 589,
+  "raw_bytes": 1085902,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -152,6 +152,11 @@
       "openingDate": "2026-10-04T00:00:00.000Z",
       "name": "2027 Risk Analyst (DMFI) Intern",
       "company": "Schonfeld"
+    },
+    "4mda3mztsq": {
+      "openingDate": "2026-10-19T00:00:00.000Z",
+      "name": "Finance Summer Placement",
+      "company": "SSE"
     },
     "4ux2aie1t3": {
       "openingDate": "2026-09-28T00:00:00.000Z",
