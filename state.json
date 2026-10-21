@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-21T11:24:18.509903+00:00",
+  "updated": "2026-10-21T16:43:08.082181+00:00",
   "row_count": 589,
-  "raw_bytes": 1086089,
+  "raw_bytes": 1086361,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -2169,7 +2169,7 @@
       "company": "KR8 Advisory"
     },
     "sr9fyjnaeb": {
-      "openingDate": null,
+      "openingDate": "2026-10-21T00:00:00.000Z",
       "name": "2027 Economic Intern (Short-term)",
       "company": "Frontier Economics"
     },
