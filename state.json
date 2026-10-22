@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-22T11:24:39.990721+00:00",
-  "row_count": 590,
-  "raw_bytes": 1088490,
+  "updated": "2026-10-22T16:43:50.208932+00:00",
+  "row_count": 596,
+  "raw_bytes": 1099822,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -12,6 +12,11 @@
       "openingDate": "2026-09-04T00:00:00.000Z",
       "name": "2027 Quant Researcher Summer Internship",
       "company": "Man Group"
+    },
+    "0nkx8pshp7": {
+      "openingDate": "2026-10-22T00:00:00.000Z",
+      "name": "2027 Summer Internship - Distribution & Asset Rotation",
+      "company": "Cr\u00e9dit Agricole"
     },
     "0raizvznqa": {
       "openingDate": "2026-08-31T00:00:00.000Z",
@@ -32,6 +37,11 @@
       "openingDate": "2026-09-01T00:00:00.000Z",
       "name": "Private Funds Group Summer Internship (2027)",
       "company": "Evercore"
+    },
+    "1ltmadbo5g": {
+      "openingDate": "2026-10-22T00:00:00.000Z",
+      "name": "2027 Summer Internship - Global Investment Banking",
+      "company": "Cr\u00e9dit Agricole"
     },
     "1m174f8o7e": {
       "openingDate": "2026-10-01T00:00:00.000Z",
@@ -337,6 +347,11 @@
       "openingDate": "2026-08-12T00:00:00.000Z",
       "name": "Quantitative Researcher Internship - 2027",
       "company": "Quantbot Technologies"
+    },
+    "aoedw7uv7b": {
+      "openingDate": "2026-10-22T00:00:00.000Z",
+      "name": "2027 Summer Internship - Risk Department",
+      "company": "Cr\u00e9dit Agricole"
     },
     "aou4ksbfee": {
       "openingDate": null,
@@ -823,6 +838,11 @@
       "name": "Credit Analyst Internship Asset Management",
       "company": "Atlana Wealth"
     },
+    "f9r5hurbal": {
+      "openingDate": "2026-10-22T00:00:00.000Z",
+      "name": "2027 Summer Internship - Global Markets Division",
+      "company": "Cr\u00e9dit Agricole"
+    },
     "f9z38d0inb": {
       "openingDate": "2026-09-01T00:00:00.000Z",
       "name": "Quantitative Researcher | Internship | Summer '27",
@@ -1137,6 +1157,11 @@
       "openingDate": null,
       "name": "Consulting & Analytics Intern",
       "company": "Visa"
+    },
+    "ipf7709q64": {
+      "openingDate": "2026-10-22T00:00:00.000Z",
+      "name": "2027 Summer Internship - Corporate and Leveraged Finance",
+      "company": "Cr\u00e9dit Agricole"
     },
     "iphvx1ttlp": {
       "openingDate": "2026-10-06T00:00:00.000Z",
@@ -2034,8 +2059,8 @@
       "company": "Oak Hill Advisors"
     },
     "rca9chywkl": {
-      "openingDate": null,
-      "name": "Summer Internship Programme 2027",
+      "openingDate": "2026-10-22T00:00:00.000Z",
+      "name": "2027 Summer Internship - Coverage",
       "company": "Cr\u00e9dit Agricole"
     },
     "rcnjysntuc": {
@@ -2477,6 +2502,11 @@
       "openingDate": "2026-08-31T00:00:00.000Z",
       "name": "2027 Quant Masters Summer Programme",
       "company": "Jefferies"
+    },
+    "vmm17b3zih": {
+      "openingDate": "2026-10-22T00:00:00.000Z",
+      "name": "2027 Summer Internship - International Trade and Transaction Banking",
+      "company": "Cr\u00e9dit Agricole"
     },
     "vmoxgl1hqi": {
       "openingDate": "2026-10-14T00:00:00.000Z",
