@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-21T16:43:08.082181+00:00",
-  "row_count": 589,
-  "raw_bytes": 1086361,
+  "updated": "2026-10-22T11:24:39.990721+00:00",
+  "row_count": 590,
+  "raw_bytes": 1088490,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -1748,6 +1748,11 @@
       "name": "Summer 2027 Transactions Intern",
       "company": "Harrison Street"
     },
+    "ogo979opdr": {
+      "openingDate": "2026-10-21T00:00:00.000Z",
+      "name": "Principal Investments Intern (Summer 2027)",
+      "company": "Castleton Commodities International"
+    },
     "oh7y43zboi": {
       "openingDate": null,
       "name": "Finance Internship - Summer 2027 (12 Weeks)",
@@ -2489,7 +2494,7 @@
       "company": "State Street"
     },
     "voyqktczs5": {
-      "openingDate": null,
+      "openingDate": "2026-10-22T00:00:00.000Z",
       "name": "Investment Summer Analyst (Intern)",
       "company": "Cambridge Associates"
     },
