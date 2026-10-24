@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-24T10:33:29.160752+00:00",
+  "updated": "2026-10-24T15:29:02.038998+00:00",
   "row_count": 596,
-  "raw_bytes": 1100226,
+  "raw_bytes": 1100452,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -1714,7 +1714,7 @@
       "company": "Susquehanna International Group"
     },
     "o1vkdelshm": {
-      "openingDate": null,
+      "openingDate": "2026-10-24T00:00:00.000Z",
       "name": "Summer Internship Program 2027",
       "company": "ICE"
     },
@@ -2530,7 +2530,7 @@
     },
     "vqgyeeo1db": {
       "openingDate": "2026-10-15T00:00:00.000Z",
-      "name": "Trackr Academy - Autumn 2026",
+      "name": "Trackr Academy - Autumn 2026 [FINAL REGISTRATIONS]",
       "company": "Trackr"
     },
     "vrb6e3j24q": {
