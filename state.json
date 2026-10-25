@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-25T10:58:43.617728+00:00",
-  "row_count": 596,
-  "raw_bytes": 1100452,
+  "updated": "2026-10-25T15:39:02.930991+00:00",
+  "row_count": 597,
+  "raw_bytes": 1102572,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -72,6 +72,11 @@
       "openingDate": "2026-09-15T00:00:00.000Z",
       "name": "Sustainable Investing Summer Internship 2027",
       "company": "Fidelity International"
+    },
+    "2hjll92was": {
+      "openingDate": "2026-10-25T00:00:00.000Z",
+      "name": "2027 Policy Consulting Intern - Life Sciences",
+      "company": "Charles River Associates"
     },
     "2z2l0yyhj5": {
       "openingDate": "2026-09-17T00:00:00.000Z",
@@ -2819,8 +2824,8 @@
       "company": "Ethical Capital Partners"
     },
     "yayxb49x20": {
-      "openingDate": null,
-      "name": "Intern - Summer 2027",
+      "openingDate": "2026-10-25T00:00:00.000Z",
+      "name": "2027 Strategy Consulting Intern - Life Sciences",
       "company": "Charles River Associates"
     },
     "ygixj2sl5h": {
