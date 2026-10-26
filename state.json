@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-25T15:39:02.930991+00:00",
-  "row_count": 597,
-  "raw_bytes": 1102572,
+  "updated": "2026-10-26T12:30:48.247235+00:00",
+  "row_count": 600,
+  "raw_bytes": 1109988,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -1258,6 +1258,11 @@
       "name": "Summer Internship C&IB",
       "company": "BBVA"
     },
+    "jpcvr5m1me": {
+      "openingDate": "2026-10-26T00:00:00.000Z",
+      "name": "2027 Summer Internship, Strategic Communications",
+      "company": "FTI Consulting"
+    },
     "jpmj3ezzzo": {
       "openingDate": "2026-09-15T00:00:00.000Z",
       "name": "Summer Internship 2027",
@@ -1879,8 +1884,8 @@
       "company": "Shell"
     },
     "ptdp3w0lho": {
-      "openingDate": null,
-      "name": "2027 Summer Internship",
+      "openingDate": "2026-10-26T00:00:00.000Z",
+      "name": "2027 Summer Internship, Tax Advisory",
       "company": "FTI Consulting"
     },
     "pu71fibo0k": {
@@ -2678,6 +2683,11 @@
       "name": "Summer Trading Internship",
       "company": "Flow Traders"
     },
+    "x6gdvl83lo": {
+      "openingDate": "2026-10-26T00:00:00.000Z",
+      "name": "2027 Summer Internship, TMT Business Transformation, Corporate Finance",
+      "company": "FTI Consulting"
+    },
     "x6yry9961v": {
       "openingDate": null,
       "name": "Investment Intern - Summer 2027",
@@ -2752,6 +2762,11 @@
       "openingDate": "2026-09-01T00:00:00.000Z",
       "name": "2027 Risk Management Group Summer Internship Programme",
       "company": "Macquarie Group"
+    },
+    "xojuu49l19": {
+      "openingDate": "2026-10-26T00:00:00.000Z",
+      "name": "2027 Summer Internship, Economic & Financial Consulting",
+      "company": "FTI Consulting"
     },
     "xol1zhqfwc": {
       "openingDate": "2026-08-17T00:00:00.000Z",
