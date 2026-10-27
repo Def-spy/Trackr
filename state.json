@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-27T11:48:34.050557+00:00",
-  "row_count": 600,
-  "raw_bytes": 1110255,
+  "updated": "2026-10-27T17:33:37.091952+00:00",
+  "row_count": 601,
+  "raw_bytes": 1112023,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -1662,6 +1662,11 @@
       "openingDate": "2026-08-28T00:00:00.000Z",
       "name": "Finance Intern 2027",
       "company": "Accuracy"
+    },
+    "nhgwemeg2i": {
+      "openingDate": "2026-10-27T00:00:00.000Z",
+      "name": "Quantitative Researcher - 2027 Summer Internship",
+      "company": "Graviton"
     },
     "niw3zsn28z": {
       "openingDate": null,
