@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-26T18:19:54.207649+00:00",
+  "updated": "2026-10-27T11:48:34.050557+00:00",
   "row_count": 600,
-  "raw_bytes": 1109988,
+  "raw_bytes": 1110255,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -2674,7 +2674,7 @@
       "company": "Norges Bank"
     },
     "x363ei4n3e": {
-      "openingDate": null,
+      "openingDate": "2026-10-26T00:00:00.000Z",
       "name": "Actuarial Intern (Summer 2027)",
       "company": "Aegon"
     },
