@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-11T13:48:14.420418+00:00",
-  "row_count": 620,
-  "raw_bytes": 1151345,
+  "updated": "2026-11-11T19:17:59.157791+00:00",
+  "row_count": 622,
+  "raw_bytes": 1156318,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -67,6 +67,11 @@
       "openingDate": "2026-08-31T00:00:00.000Z",
       "name": "2027 Private Fund Advisory Summer Internship Programme",
       "company": "Jefferies"
+    },
+    "229lzrtr6e": {
+      "openingDate": "2026-11-09T00:00:00.000Z",
+      "name": "Strategy & Business Transformation Intern",
+      "company": "IBM"
     },
     "248wrwzguu": {
       "openingDate": "2026-10-06T00:00:00.000Z",
@@ -2339,8 +2344,8 @@
       "company": "Ryan"
     },
     "t2va5huukl": {
-      "openingDate": null,
-      "name": "Quantitative Research Summer Intern 2027",
+      "openingDate": "2026-11-11T00:00:00.000Z",
+      "name": "Short Term Research Intern",
       "company": "Aspect Capital"
     },
     "t2yo942imr": {
@@ -2897,6 +2902,11 @@
       "openingDate": "2026-09-07T00:00:00.000Z",
       "name": "2027 Summer Analyst Programme: Internal Audit",
       "company": "MUFG"
+    },
+    "xy6p614fvk": {
+      "openingDate": "2026-11-10T00:00:00.000Z",
+      "name": "Risk & Compliance Internship",
+      "company": "M&G"
     },
     "xyn3tm5ytg": {
       "openingDate": null,
