@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-15T18:32:10.719902+00:00",
+  "updated": "2026-11-16T15:12:50.129456+00:00",
   "row_count": 622,
-  "raw_bytes": 1156318,
+  "raw_bytes": 1157485,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -307,6 +307,11 @@
       "openingDate": "2026-10-21T00:00:00.000Z",
       "name": "Summer 2027: Investment Team Summer Analyst",
       "company": "Orchard Global"
+    },
+    "9lnktlwn9h": {
+      "openingDate": "2026-11-20T00:00:00.000Z",
+      "name": "2027 Investment Internship Programme",
+      "company": "St James's Place"
     },
     "9xqxksw2z5": {
       "openingDate": "2026-10-02T00:00:00.000Z",
@@ -1039,8 +1044,8 @@
       "company": "ZS"
     },
     "h09z175evi": {
-      "openingDate": null,
-      "name": "Penultimate Year Internship Programme",
+      "openingDate": "2026-11-16T00:00:00.000Z",
+      "name": "2027 Summer Internship Programme",
       "company": "Bank of England"
     },
     "h141nmytwp": {
@@ -1567,11 +1572,6 @@
       "openingDate": "2026-09-01T00:00:00.000Z",
       "name": "Spring into Quant Finance 2027",
       "company": "G-Research"
-    },
-    "m175wbwe1c": {
-      "openingDate": null,
-      "name": "Trading & Quant Summer Internship 2027",
-      "company": "Bastion Trading"
     },
     "m2eww31v2k": {
       "openingDate": "2026-08-15T00:00:00.000Z",
@@ -2324,8 +2324,8 @@
       "company": "NFU Mutual"
     },
     "svx4anr7pi": {
-      "openingDate": null,
-      "name": "Junior Quantitative Analyst Internship - Summer 2027",
+      "openingDate": "2026-11-13T00:00:00.000Z",
+      "name": "Internship - Junior Quantitative Analyst",
       "company": "BMLL"
     },
     "sy130gmptk": {
@@ -2734,8 +2734,8 @@
       "company": "LCP"
     },
     "we02sc45ng": {
-      "openingDate": null,
-      "name": "Equity Research Analyst Intern",
+      "openingDate": "2026-11-12T00:00:00.000Z",
+      "name": "Summer 2027 Global Client Service Intern",
       "company": "MFS"
     },
     "wejolky8ln": {
