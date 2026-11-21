@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-21T14:24:48.289773+00:00",
-  "row_count": 622,
-  "raw_bytes": 1157485,
+  "updated": "2026-11-21T18:45:34.221907+00:00",
+  "row_count": 623,
+  "raw_bytes": 1159739,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -292,6 +292,11 @@
       "openingDate": "2026-09-14T00:00:00.000Z",
       "name": "Intern - Economics, Disputes and Investigations",
       "company": "BRG"
+    },
+    "971tbvetgg": {
+      "openingDate": "2026-11-20T00:00:00.000Z",
+      "name": "Summer 2027 Consulting Intern Programme",
+      "company": "Control Risks"
     },
     "9bsigfoqgo": {
       "openingDate": "2026-10-06T00:00:00.000Z",
