@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-25T21:09:17.685866+00:00",
-  "row_count": 623,
-  "raw_bytes": 1159739,
+  "updated": "2026-11-26T16:36:20.262906+00:00",
+  "row_count": 624,
+  "raw_bytes": 1163560,
   "programmes": {
     "0072a2odck": {
       "openingDate": "2026-08-24T00:00:00.000Z",
@@ -334,7 +334,7 @@
       "company": "Northern Trust"
     },
     "a4f0hws2s1": {
-      "openingDate": null,
+      "openingDate": "2026-11-23T00:00:00.000Z",
       "name": "2027 Summer Internship",
       "company": "AXA"
     },
@@ -834,7 +834,7 @@
       "company": "GEP"
     },
     "etpr8cn8rs": {
-      "openingDate": null,
+      "openingDate": "2026-11-25T00:00:00.000Z",
       "name": "Internship 2027",
       "company": "RSM"
     },
@@ -1134,7 +1134,7 @@
       "company": "Panmure Liberum"
     },
     "i6vyr5sh3x": {
-      "openingDate": null,
+      "openingDate": "2026-11-24T00:00:00.000Z",
       "name": "2027 Summer Internship",
       "company": "Nationwide"
     },
@@ -1298,6 +1298,11 @@
       "name": "Summer Intern, Corporate Finance",
       "company": "Alvarez & Marsal"
     },
+    "jljb00i9sx": {
+      "openingDate": "2026-11-23T00:00:00.000Z",
+      "name": "Global Markets Summer Analyst Program",
+      "company": "BMO Capital Markets"
+    },
     "jmomi39y30": {
       "openingDate": null,
       "name": "Summer Analyst",
@@ -1429,7 +1434,7 @@
       "company": "MarketAxess"
     },
     "kmpvb19l8n": {
-      "openingDate": null,
+      "openingDate": "2026-11-25T00:00:00.000Z",
       "name": "Summer Internship 2027",
       "company": "First Wealth"
     },
@@ -2819,8 +2824,8 @@
       "company": "Global Infrastructure Advisors"
     },
     "xefxdf6yog": {
-      "openingDate": null,
-      "name": "Finance Summer Placement",
+      "openingDate": "2026-11-23T00:00:00.000Z",
+      "name": "Summer Placement - Finance",
       "company": "Severn Trent"
     },
     "xetcazb7wg": {
@@ -3049,7 +3054,7 @@
       "company": "Evercore"
     },
     "zbyismcu8o": {
-      "openingDate": null,
+      "openingDate": "2026-11-25T00:00:00.000Z",
       "name": "Strategy Consulting Intern",
       "company": "Plural Strategy"
     },
@@ -3065,7 +3070,7 @@
     },
     "zld4199meu": {
       "openingDate": "2026-10-02T00:00:00.000Z",
-      "name": "2027 Investment Banking Summer Intern",
+      "name": "Investment Banking Summer Intern",
       "company": "BMO Capital Markets"
     },
     "zm17cu7kxl": {
